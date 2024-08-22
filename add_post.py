@@ -132,21 +132,11 @@ def auto_translate(src_md, target_en_md):
         f.write(translated_html)
 
 
-def update_mkdocs(target_md, target_en_md):
-    """更新 mkdocs.yml"""
-    with open('mkdocs.yml', 'r') as f:
-        config = yaml.safe_load(f)
+def main(data_block):
+    src_post = data_block["src_post"]
+    target_md = f"docs/zh/{data_block['folder']}/{data_block['date']}.{data_block['short_tag']}.md"
+    target_en_md = f"docs/en/{data_block['folder']}/{data_block['date']}.{data_block['short_tag']}.md"
 
-    # 添加新的页面到 nav
-    config['nav'].append({os.path.basename(target_md): target_md})
-    config['nav'].append({f"{os.path.basename(target_md)} (EN)": target_en_md})
-
-    with open('mkdocs.yml', 'w') as f:
-        yaml.dump(config, f)
-
-
-def main(src_post, target_md, target_en_md):
-    """
     # 1. 提取微信公众号页面里的 html
     src_html = get_html(src_post)
 
@@ -161,17 +151,15 @@ def main(src_post, target_md, target_en_md):
 
     # 5. 自动翻译
     auto_translate(target_md, target_en_md)
-    """
-
-    # 7. 更新 mkdocs.yml
-    update_mkdocs(target_md, target_en_md)
 
     print("处理完成！")
 
 
 if __name__ == "__main__":
-    SRC_POST = "https://mp.weixin.qq.com/s/PGgpRFPvDemTlGAC_BVebw"  # 来源微信公众号文章链接
-    NAV_MAP = ("寻找2017年的你", "find_2017_you", "find_2017_you")
-    TARGET_MD = f"docs/zh/festivals/20240821.{NAV_MAP[2]}.md"  # 目标 markdown 文件路径
-    TARGET_EN_MD = f"docs/en/festivals/20240821.{NAV_MAP[2]}.md"  # 目标英文 markdown 文件路径
-    main(SRC_POST, TARGET_MD, TARGET_EN_MD)
+    data_json = {
+        "src_post": "https://mp.weixin.qq.com/s/PGgpRFPvDemTlGAC_BVebw",  # 来源微信公众号文章链接
+        "date": "20240821",
+        "short_tag": "find_2017_you",
+        "folder": "festivals"
+    }
+    main(data_json)

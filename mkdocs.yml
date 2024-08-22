@@ -1,1 +1,44 @@
-site_name: My Docs
+nav:
+- 最近活动: zh/index.md
+- 艺术节:
+  - 寻找2017年的你: zh/festivals/20240821.find_2017_you.md
+- 工作坊: []
+- 关于: zh/about.md
+- 活动存档:
+  - '2024':
+    - 寻找2017年的你: zh/festivals/20240821.find_2017_you.md
+plugins:
+- search
+- i18n:
+    docs_structure: folder
+    languages:
+    - default: true
+      locale: zh
+      name: 中文
+    - locale: en
+      name: English
+      nav_translations:
+        关于: About
+        寻找2017年的你: Looking for You in 2017
+        工作坊: Workshops
+        最近活动: Recent Events
+        活动存档: Archives
+        艺术节: Festivals
+        首页: Home
+      site_name: Inch Dance
+    reconfigure_material: true
+    reconfigure_search: true
+site_name: 寸草舞集
+theme:
+  favicon: assets/logo.png
+  features:
+  - navigation.tabs
+  - navigation.path
+  - navigation.top
+  - navigation.indexes
+  - search.suggest
+  logo: assets/logo.png
+  name: material
+  palette:
+    accent: white
+    primary: light green
