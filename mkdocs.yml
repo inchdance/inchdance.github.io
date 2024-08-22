@@ -2,11 +2,13 @@ nav:
 - 最近活动: zh/index.md
 - 艺术节:
   - 寻找2017年的你: zh/festivals/20240821.find_2017_you.md
+  - Beyond Dance艺术节预告二：互动装置展+丸仔十分舞聊+奇妙艺术摊位: zh/festivals/20240820.beyond_dance_activity_2.md
+- 精选文章:
+  - Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: zh/articles/20240821.zoe_talk_review.md
 - 工作坊: []
-- 关于: zh/about.md
-- 活动存档:
-  - '2024':
-    - 寻找2017年的你: zh/festivals/20240821.find_2017_you.md
+- 关于:
+  - 接触即兴指南: zh/about/20240820.about_ci.md
+- 活动存档: []
 plugins:
 - search
 - i18n:
@@ -18,11 +20,18 @@ plugins:
     - locale: en
       name: English
       nav_translations:
+        Beyond Dance艺术节预告二：互动装置展+丸仔十分舞聊+奇妙艺术摊位: 'Beyond Dance Festival Trailer II:
+          Interactive Installation Exhibition + Maru''s Ten Minutes Dance Chat + Fantastic
+          Art Booth'
+        Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: Dancing with Myself When the Body
+          Becomes a River - Interview Review with Zoe(Zheng Yuchian)
         关于: About
         寻找2017年的你: Looking for You in 2017
         工作坊: Workshops
+        接触即兴指南: Contact Improvisation Guide
         最近活动: Recent Events
         活动存档: Archives
+        精选文章: Articles
         艺术节: Festivals
         首页: Home
       site_name: Inch Dance

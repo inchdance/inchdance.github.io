@@ -1,17 +1,26 @@
-from bs4 import BeautifulSoup
-
 import re
 import json
+import os
 from json import JSONDecodeError
 
+from bs4 import BeautifulSoup, NavigableString, Tag
+
 from langchain_community.chat_models import ChatZhipuAI
+from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser, BaseOutputParser
 from langchain_core.exceptions import OutputParserException
 import dotenv
 
 dotenv.load_dotenv()
 
-glm4 = ChatZhipuAI(model="GLM-4-0520", temperature=0.3, max_tokens=99999999)
+API_KEY = os.getenv('OPENAI_API_KEY')
+API_BASE = os.getenv('OPENAI_API_BASE')
+
+glm4 = ChatZhipuAI(model="GLM-4", temperature=0.3)
+gpt4o = ChatOpenAI(api_key=API_KEY, base_url=API_BASE, model="gpt-4o", temperature=0.7)
+gpt4o_mini = ChatOpenAI(api_key=API_KEY, base_url=API_BASE, model="gpt-4o-mini", temperature=0.7)
+
+llm = gpt4o
 
 CUSTOM_TERMS = {
     "寸草": "InchDance",
@@ -43,55 +52,59 @@ json_parser = JsonOutputParser()
 
 def translate_html(html_content, target_lang='英语'):
     soup = BeautifulSoup(html_content, 'html.parser')
+    translate_tags = ['title', 'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'span', 'div', 'strong', 'a']
 
-    # 定义需要翻译的标签
-    translate_tags = ['title', 'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'span', 'div']
+    texts_to_translate = {}
 
-    # 用于存储短文本的字典
-    short_texts = {}
-
-    # 用于存储长文本的列表
-    long_texts = []
-
-    # 遍历所有需要翻译的标签
-    for tag in soup.find_all(translate_tags):
-        if tag.string and tag.string.strip():
-            text = tag.string.strip()
-            if len(text) < 50:  # 定义短文本的长度阈值
-                short_texts[text] = ""
+    def process_tag(tag):
+        if tag.name in translate_tags:
+            if tag.string and tag.string.strip():
+                text = tag.string.strip()
+                if len(text) <= 1000:
+                    texts_to_translate[text] = ""
             else:
-                long_texts.append((tag, text))
+                for child in tag.children:
+                    if isinstance(child, NavigableString) and child.strip():
+                        text = child.strip()
+                        if len(text) <= 1000:
+                            texts_to_translate[text] = ""
+                    elif isinstance(child, Tag):
+                        process_tag(child)
 
-    # 创建专有名词翻译指南
+    for tag in soup.find_all(translate_tags):
+        process_tag(tag)
+
     terms_guide = "专有名词翻译指南：\n"
     for term, translation in CUSTOM_TERMS.items():
         terms_guide += f"- {term}: {translation}\n"
 
-    # 翻译短文本
-    if short_texts:
+    translated_texts = {}
+    for i in range(0, len(texts_to_translate), 30):
+        batch = dict(list(texts_to_translate.items())[i:i + 30])
         prompt = (f"请将以下 json 的 key 翻译成{target_lang}放在 value 里，请只输出 json，不要输出额外内容。\n"
                   f"请遵循以下专有名词翻译指南：\n{terms_guide}\n"
-                  f"{json.dumps(short_texts, ensure_ascii=False)}\n\n")
-        chain = glm4 | json_parser
-        translated_short_texts = chain.invoke(prompt)
+                  f"{json.dumps(batch, ensure_ascii=False)}\n\n")
+        chain = llm | json_parser
+        try:
+            batch_translated = chain.invoke(prompt)
+            translated_texts.update(batch_translated)
+        except Exception as e:
+            print(f"Translation error for batch {i // 30 + 1}: {e}")
 
-        # 替换短文本
-        for tag in soup.find_all(translate_tags):
-            if tag.string and tag.string.strip() in translated_short_texts:
-                tag.string.replace_with(translated_short_texts[tag.string.strip()])
-
-    # 翻译长文本
-    for tag, text in long_texts:
-        prompt = (f"请将以下文本翻译成{target_lang}，保持原文的格式和标点符号。\n"
-                  f"请遵循以下专有名词翻译指南：\n{terms_guide}\n\n{text}\n\n")
-        chain = glm4 | str_parser
-        translated_text = chain.invoke(prompt)
-        tag.string.replace_with(translated_text)
+    for tag in soup.find_all(translate_tags):
+        if tag.string and tag.string.strip() in translated_texts:
+            tag.string.replace_with(translated_texts[tag.string.strip()])
+        else:
+            for child in tag.children:
+                if isinstance(child, NavigableString) and child.strip() in translated_texts:
+                    new_string = translated_texts[child.strip()]
+                    child.replace_with(new_string)
 
     return str(soup)
 
 
-def main(cn_file_name, en_file_name):
+def main(cn_file_name):
+    en_file_name = cn_file_name.replace("/zh/", "/en/")
     with open(cn_file_name) as f:
         html_content = f.read()
     en_html_content = translate_html(html_content)
@@ -100,4 +113,4 @@ def main(cn_file_name, en_file_name):
 
 
 if __name__ == "__main__":
-    main("docs/zh/festivals/20240821.find_2017_you.md", "docs/en/festivals/20240821.find_2017_you.md")
+    main("docs/zh/articles/20240821.zoe_talk_review.md")

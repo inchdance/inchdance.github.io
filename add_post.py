@@ -1,7 +1,6 @@
 import hashlib
 import os
 import re
-import yaml
 
 import requests
 from bs4 import BeautifulSoup
@@ -23,21 +22,33 @@ def clean_html(html_content, article_id=None):
     :param article_id: 文章 ID（可选，用于日志）
     :return: 清理后的 HTML 字符串，如果处理失败则返回 None
     """
+    soup = BeautifulSoup(html_content, 'html.parser')
+
     # 检查是否存在必要的元素
-    if '<div id="js_article"' not in html_content:
+    article_div = soup.find('div', id='js_article')
+    if not article_div:
         print(f"警告: 文章 {article_id} 缺少内容")
         return None
 
-    # 提取标题和内容
-    title_match = re.search(r'<h1 class="rich_media_title.*?>(.*?)</h1>', html_content, re.DOTALL)
-    content_match = re.search(r'<div class="rich_media_content.*?>(.*?)</div>', html_content, re.DOTALL)
+    # 提取标题
+    title_elem = soup.find('h1', class_='rich_media_title')
+    if not title_elem:
+        print(f"警告: 文章 {article_id} 缺少标题")
+        return None
+    title = title_elem.get_text(strip=True)
 
-    if not title_match or not content_match:
-        print(f"警告: 文章 {article_id} 缺少标题或内容")
+    # 提取内容
+    content_elem = soup.find('div', class_='rich_media_content')
+    if not content_elem:
+        print(f"警告: 文章 {article_id} 缺少内容")
         return None
 
-    title = title_match.group(1).strip()
-    content = content_match.group(1).strip()
+    if 'style' in content_elem.attrs:
+        styles = content_elem['style'].split(';')
+        new_styles = [s for s in styles if 'visibility:' not in s and 'opacity:' not in s]
+        content_elem['style'] = ';'.join(new_styles)
+
+    content = str(content_elem)
 
     # 创建新的HTML结构
     new_html = f'''
@@ -49,7 +60,7 @@ def clean_html(html_content, article_id=None):
   <body>
     <div id="img-content" class="rich_media_wrp">
       <h1 class="rich_media_title">{title}</h1>
-      <div class="rich_media_content">{content}</div>
+      {content}
     </div>
   </body>
 </html>
@@ -132,34 +143,41 @@ def auto_translate(src_md, target_en_md):
         f.write(translated_html)
 
 
-def main(data_block):
+def main(data_block, translate_only=None):
     src_post = data_block["src_post"]
     target_md = f"docs/zh/{data_block['folder']}/{data_block['date']}.{data_block['short_tag']}.md"
     target_en_md = f"docs/en/{data_block['folder']}/{data_block['date']}.{data_block['short_tag']}.md"
 
-    # 1. 提取微信公众号页面里的 html
-    src_html = get_html(src_post)
+    if translate_only is None:
+        translate_only = False
 
-    # 2. 清理 html
-    clean_html_content = clean_html(src_html)
+    if not translate_only:
+        # 1. 提取微信公众号页面里的 html
+        src_html = get_html(src_post)
+        print("获取到 HTML")
 
-    # 3. 获取 html 中的图片链接，下载到本地，并替换链接
-    local_html = process_and_replace_images(clean_html_content)
+        # 2. 清理 html
+        clean_html_content = clean_html(src_html)
+        print("清理 HTML")
 
-    # 4. 将 html 存为 markdown
-    save_as_md(local_html, target_md)
+        # 3. 获取 html 中的图片链接，下载到本地，并替换链接
+        local_html = process_and_replace_images(clean_html_content)
+        print("完成处理图片")
+
+        # 4. 将 html 存为 markdown
+        save_as_md(local_html, target_md)
+        print("保存为 Markdown")
 
     # 5. 自动翻译
     auto_translate(target_md, target_en_md)
-
-    print("处理完成！")
+    print("自动翻译完成")
 
 
 if __name__ == "__main__":
     data_json = {
-        "src_post": "https://mp.weixin.qq.com/s/PGgpRFPvDemTlGAC_BVebw",  # 来源微信公众号文章链接
-        "date": "20240821",
-        "short_tag": "find_2017_you",
-        "folder": "festivals"
+        "src_post": "https://mp.weixin.qq.com/s/U3ygRpMU6KX_wbbvmABRXA",
+        "date": "20240820",
+        "short_tag": "about_ci",
+        "folder": "about"
     }
-    main(data_json)
+    main(data_json, translate_only=False)

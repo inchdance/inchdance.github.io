@@ -29,9 +29,28 @@ def get_date_from_filename(filename):
     return datetime.strptime(date_str, '%Y%m%d')
 
 
+def organize_articles(articles):
+    return [{a['title']: a['path'].replace('docs/', '')} for a in articles]
+
+
+def organize_archive_by_year(articles):
+    archive_nav = defaultdict(list)
+    for article in articles:
+        year = article['date'].year
+        archive_nav[year].append({article['title']: article['path'].replace('docs/', '')})
+    return [{str(year): items} for year, items in sorted(archive_nav.items(), reverse=True)]
+
+
 def update_mkdocs_yml():
     base_path = 'docs/zh'
-    folders = ['archive', 'festivals', 'workshops']
+    folders = ['archive', 'articles', 'festivals', 'workshops', 'about']
+    folder_nav_mapping = {
+        'festivals': '艺术节',
+        'workshops': '工作坊',
+        'articles': '精选文章',
+        'archive': '活动存档',
+        'about': '关于'
+    }
 
     all_articles = []
     nav_translations = {}
@@ -68,22 +87,14 @@ def update_mkdocs_yml():
     # 更新 festivals 和 workshops
     for item in nav:
         if isinstance(item, dict):
-            key = list(item.keys())[0]
-            if key in ['艺术节', '工作坊']:
-                folder = 'festivals' if key == '艺术节' else 'workshops'
+            nav_key = list(item.keys())[0]
+            if nav_key in folder_nav_mapping.values():
+                folder = next(k for k, v in folder_nav_mapping.items() if v == nav_key)
                 folder_articles = [a for a in all_articles if a['folder'] == folder]
-                item[key] = [{a['title']: a['path'].replace('docs/', '')} for a in folder_articles]
-
-    # 更新 archive
-    archive_nav = defaultdict(list)
-    for article in all_articles:
-        year = article['date'].year
-        archive_nav[year].append({article['title']: article['path'].replace('docs/', '')})
-
-    for item in nav:
-        if isinstance(item, dict) and '活动存档' in item:
-            item['活动存档'] = [{str(year): items} for year, items in sorted(archive_nav.items(), reverse=True)]
-            break
+                if nav_key == '活动存档':
+                    item[nav_key] = organize_archive_by_year(folder_articles)
+                else:
+                    item[nav_key] = organize_articles(folder_articles)
 
     # 写回 mkdocs.yml
     with open('mkdocs.yml', 'w', encoding='utf-8') as file:
