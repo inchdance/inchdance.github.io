@@ -1,0 +1,10 @@
+mkdocs
+mkdocs-material
+mkdocs-static-i18n[material]
+beautifulsoup4==4.12.3
+langchain==0.2.6
+langchain-community==0.2.6
+zhipuai==2.1.1.20240620.1
+httpx_sse==0.4.0
+httpx==0.27.0
+python-dotenv==1.0.1
