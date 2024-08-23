@@ -169,15 +169,15 @@ def main(data_block, translate_only=None):
         print("保存为 Markdown")
 
     # 5. 自动翻译
-    auto_translate(target_md, target_en_md)
+    # auto_translate(target_md, target_en_md)
     print("自动翻译完成")
 
 
 if __name__ == "__main__":
     data_json = {
-        "src_post": "https://mp.weixin.qq.com/s?__biz=MzIwNTg0NTA1OQ%3D%3D&mid=2247484524&idx=1&sn=c58c2a8badd1da1982870d87071b706e&scene=45#wechat_redirect",
-        "date": "20190725",
-        "short_tag": "gu_dance_save_nation",
-        "folder": "articles"
+        "src_post": "https://mp.weixin.qq.com/s/QHSbVyPzrKmXIO8eM8nlSQ",
+        "date": "20170702",
+        "short_tag": "count_down",
+        "folder": "festivals/2017"
     }
     main(data_json, translate_only=False)

@@ -24,51 +24,53 @@ def get_article_info(file_path):
     return title, en_title
 
 
-def get_date_from_filename(filename):
-    date_str = filename.split('.')[0]
-    return datetime.strptime(date_str, '%Y%m%d')
-
-
-def organize_articles(articles):
-    return [{a['title']: a['path'].replace('docs/', '')} for a in articles]
-
-
-def organize_archive_by_year(articles):
-    archive_nav = defaultdict(list)
+def organize_articles_by_folder(folder_path, articles):
+    folder_structure = {}
     for article in articles:
-        year = article['date'].year
-        archive_nav[year].append({article['title']: article['path'].replace('docs/', '')})
-    return [{str(year): items} for year, items in sorted(archive_nav.items(), reverse=True)]
+        relative_path = os.path.relpath(article['path'], folder_path)
+        parts = relative_path.split(os.sep)
+        current = folder_structure
+        for part in parts[:-1]:
+            if part not in current:
+                current[part] = {}
+            current = current[part]
+        current[article['title']] = f"zh/{article['folder']}/{relative_path}"
+    return folder_structure
+
+
+def dict_to_list(d, current_path=''):
+    result = []
+    for key, value in d.items():
+        if isinstance(value, dict):
+            result.append({key: dict_to_list(value, key)})
+        else:
+            result.append({key: value})
+    return result
 
 
 def update_mkdocs_yml():
     base_path = 'docs/zh'
-    folders = ['archive', 'articles', 'festivals', 'workshops', 'about']
-    folder_nav_mapping = {
-        'festivals': '艺术节',
-        'workshops': '工作坊',
-        'articles': '精选文章',
-        'archive': '活动存档',
-        'about': '关于'
-    }
+    folder_en = ['archive', 'articles', 'festivals', 'workshops', 'about', 'performance']
+    folder_cn = ['活动存档', '精选文章', '艺术节', '工作坊', '关于', '演出']
 
     all_articles = []
     nav_translations = {}
 
-    for folder in folders:
+    for folder in folder_en:
         folder_path = os.path.join(base_path, folder)
-        for file in os.listdir(folder_path):
-            if file.endswith('.md'):
-                file_path = os.path.join(folder_path, file)
-                title, en_title = get_article_info(file_path)
-                date = get_date_from_filename(file)
-                all_articles.append({
-                    'path': file_path,
-                    'title': title,
-                    'en_title': en_title,
-                    'date': date,
-                    'folder': folder
-                })
+        for root, dirs, files in os.walk(folder_path):
+            for file in files:
+                if file.endswith('.md'):
+                    file_path = os.path.join(root, file)
+                    title, en_title = get_article_info(file_path)
+                    date = file.split(".")
+                    all_articles.append({
+                        'path': file_path,
+                        'title': title,
+                        'en_title': en_title,
+                        'date': date,
+                        'folder': folder
+                    })
 
     # 按日期排序所有文章
     all_articles.sort(key=lambda x: x['date'], reverse=True)
@@ -80,34 +82,22 @@ def update_mkdocs_yml():
     # 更新 nav，保持顶层顺序不变
     nav = mkdocs_config['nav']
 
-    # 更新 festivals 和 workshops
+    # 更新 festivals、workshops 和 archive
     for item in nav:
         if isinstance(item, dict):
             nav_key = list(item.keys())[0]
-            if nav_key in folder_nav_mapping.values():
-                folder = next(k for k, v in folder_nav_mapping.items() if v == nav_key)
+            if nav_key in folder_cn:
+                folder = folder_en[folder_cn.index(nav_key)]
+                folder_path = os.path.join(base_path, folder)
                 folder_articles = [a for a in all_articles if a['folder'] == folder]
+                folder_structure = organize_articles_by_folder(folder_path, folder_articles)
+                new_items = dict_to_list(folder_structure)
 
-                if nav_key == '活动存档':
-                    new_items = organize_archive_by_year(folder_articles)
-                else:
-                    new_items = organize_articles(folder_articles)
+                item[nav_key] = new_items
 
-                # 保留已存在的项目，添加新项目
-                existing_items = item[nav_key] if isinstance(item[nav_key], list) else []
-                existing_paths = [list(i.values())[0] if isinstance(i, dict) else i for i in existing_items]
-
-                for new_item in new_items:
-                    new_path = list(new_item.values())[0] if isinstance(new_item, dict) else new_item
-                    if new_path not in existing_paths:
-                        existing_items.append(new_item)
-                        # 更新翻译
-                        for article in folder_articles:
-                            if article['path'].replace('docs/', '') == new_path:
-                                nav_translations[article['title']] = article['en_title']
-                                break
-
-                item[nav_key] = existing_items
+                # 更新翻译
+                for article in folder_articles:
+                    nav_translations[article['title']] = article['en_title']
 
     # 更新 nav_translations
     mkdocs_config['plugins'][1]['i18n']['languages'][1]['nav_translations'].update(nav_translations)

@@ -1,52 +1,382 @@
 nav:
 - 最近活动: zh/index.md
 - 艺术节:
+  - 单日票及多人优惠 | Beyond Dance 不止跳舞即兴艺术节 即将到来 8/25-31: zh/festivals/20240830.beyond_dance_singleday_ticket.md
   - 寻找2017年的你: zh/festivals/20240821.find_2017_you.md
   - Beyond Dance艺术节预告二：互动装置展+丸仔十分舞聊+奇妙艺术摊位: zh/festivals/20240820.beyond_dance_activity_2.md
-  - Beyond Dance 不止跳舞即兴艺术节 导师阵容及工作坊信息详解: zh/festivals/20240718.beyond_dance_intro.md
   - 需要你！上海CI社群的守护天使们: zh/festivals/20240718.shanghai_household.md
-  - 单日票及多人优惠 | Beyond Dance 不止跳舞即兴艺术节 即将到来 8/25-31: zh/festivals/20240718.beyond_dance_singleday_ticket.md
-  - Beyond Dance不止跳舞即兴艺术节 场地揭秘: zh/festivals/20240630.beyond_dance_venue.md
+  - Beyond Dance 不止跳舞即兴艺术节 导师阵容及工作坊信息详解: zh/festivals/20240718.beyond_dance_intro.md
+  - 艺术节导师介绍二：共舞四十年——马才和 严明然: zh/festivals/20240630.main_artiest_victor_mandy.md
   - 艺术节导师介绍一：「我是一个跳舞的人」——古名伸: zh/festivals/20240630.main_artiest_gu_ming_shen.md
   - 艺术节导师介绍三：即兴是一种舞蹈哲学——Chico 和 Shoko: zh/festivals/20240630.main_artiest_chico_shoko.md
-  - 艺术节导师介绍二：共舞四十年——马才和 严明然: zh/festivals/20240630.main_artiest_victor_mandy.md
+  - Beyond Dance不止跳舞即兴艺术节 场地揭秘: zh/festivals/20240630.beyond_dance_venue.md
   - Beyond Dance 不止跳舞即兴艺术节 第二波阵容: zh/festivals/20240626.beyond_dance_supporting_artist.md
   - Beyond Dance「不止跳舞」即兴艺术节 导师及支持艺术家介绍: zh/festivals/20240607.beyond_dance_mentor_intro.md
   - Beyond Dance 「不止跳舞」即兴艺术节 第一波阵容发布 （超早鸟倒计时3天）: zh/festivals/20240607.beyond_dance_Impro_festival_earlybird.md
   - 重磅启程！Beyond Dance「不止跳舞」艺术节超早鸟揭幕: zh/festivals/20240525.beyond_dance_start.md
+  - '2021':
+    - 与光牵手，2021年第四届上海即兴艺术节在画家街圆满落幕: zh/festivals/2021/20211010.festival_closure.md
+    - The Magic House! 第四届上海即兴艺术节联手神奇插画师Monica Liaw的特别企划: zh/festivals/2021/20210929.magic_house_collab.md
+    - 免费开放 | 2021年第四届上海即兴艺术节国际论坛: zh/festivals/2021/20210924.forum_free_entry.md
+    - 演出大爆炸：创作、身体、脑洞和东方密码: zh/festivals/2021/20210917.performance_explosion.md
+    - 正式来袭 | 2021年第四届上海即兴艺术节全阵容披露: zh/festivals/2021/20210909.full_lineup_announced.md
+    - 2021年第四届上海即兴艺术节延期公告: zh/festivals/2021/20210816.festival_postponed_notice.md
+    - 身体、影像、科技的极尽探索｜2021年第四届上海即兴艺术节国际论坛: zh/festivals/2021/20210731.body_image_tech_exploration.md
+    - 那些即将到来的即兴演出: zh/festivals/2021/20210726.upcoming_improv_performances.md
+    - 倒计时5天 | 第四届上海即兴艺术节青年即兴大汇演演出节目招募: zh/festivals/2021/20210709.youth_improv_showcase.md
+    - 爱玩儿又挑剔？打开13位艺术届大咖的即兴新玩法: zh/festivals/2021/20210628.artists_new_improv_ways.md
+    - 第四届上海即兴艺术节正式开幕 | 想改变吗？来试试！: zh/festivals/2021/20210608.shanghai_imporv_festival_open.md
+  - '2019':
+    - 那些即兴教我的事 | 2019年第三届上海即兴艺术节圆桌论坛精华回顾（一）: zh/festivals/2019/20190922.lessons_from_improv_festival_panel.md
+    - Touch 上海 | 回到“原有支撑”   再现“万有引力”: zh/festivals/2019/20190918.touch_shanghai_original_support_repeat.md
+    - 推荐 | 《绝妙的冒险》 第三届上海即兴艺术节剧院专场演出: zh/festivals/2019/20190805.recommended_great_adventure_show.md
+    - 炎热的季节 我们依旧相约起舞，流汗撒欢！: zh/festivals/2019/20190705.hot_season_dance_together.md
+    - 第三届上海即兴艺术节 | 年度最可期的艺术家阵容，寸草专属优惠！: zh/festivals/2019/20190702.shanghai_improv_festival_artist_lineup.md
+  - '2018':
+    - 2 0 1 8  ●  第 二 届 Touch 接触即兴 艺术节 / 上海站 /: zh/festivals/2018/20180909.2018_touch_shanghai.md
+    - 2018上海即兴艺术节 從迎著风的身体开始: zh/festivals/2018/20180822.2018_shanghai_imporv_festival.md
+  - '2017':
+    - 倒计时 | 上海即兴艺术盛筵七月: zh/festivals/2017/20170702.count_down.md
+    - 预告| 这一天，那些事——五位舞者现身说法的即兴旅程: zh/festivals/2017/20170629.the_day_the_thing.md
+    - 即兴舞蹈 | 接触即兴潜动谱工作坊Underscore  Workshop: zh/festivals/2017/20170626.underscore_workshop.md
+    - 即兴戏剧 | 跟动物学习即兴表演: zh/festivals/2017/20170617.imporv_drama.md
+    - ONLY 3 DAYS LEFT | 上海即兴艺术周大师工作坊早鸟优惠倒计时: zh/festivals/2017/20170613.master_workshop.md
+    - 你的声音呢？ | 即兴音乐工作坊 Impromptu music workshop: zh/festivals/2017/20170608.where_is_your_voice.md
+    - 即兴戏剧 | 演出＆工作坊: zh/festivals/2017/20170606.workshop_performance.md
+    - 上海即兴艺术节之~ 古名伸＆古舞团接触即兴大师工作坊: zh/festivals/2017/20170604.gu_workshop.md
+    - 上海即兴艺术盛筵七月: zh/festivals/2017/20170602.shanghai_imporv_fest.md
+    - 这一天，那些事  The day we are there｜ 亚洲最强即兴舞团演出开售: zh/festivals/2017/20170601.the_day_we_are_there.md
+    - 不说谎的身体 | 亚洲接触即兴舞蹈教母古名伸将携古舞团首次亮相上海: zh/festivals/2017/20170518.body_do_not_lie.md
 - 精选文章:
+  - Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: zh/articles/20240821.zoe_talk_review.md
   - 体验身体的合奏｜什么是潜动谱UnderScore: zh/articles/20240620.what_is_underscore.md
   - 古名伸专访｜接触即兴在台湾的15年: zh/articles/20240606.gu_interview_ci_in_taiwan_15_years.md
-  - 为什么把太极和巴特尼芙基本动作放到一起练习？: zh/articles/20240506.why_taichi_and_bartenieff.md
+  - 为什么把太极和巴特尼芙基本动作放到一起练习？: zh/articles/20240506.why_taichi_bartenieff.md
   - 四月潜动谱练习分享｜UnderScore Harvest: zh/articles/20240430.underscore_harvest.md
-  - 作为身心学的太极拳——谈谈为何而练: zh/articles/20240330.taichi_as_mind_body_tech.md
-  - Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: zh/articles/20230923.zoe_talk_review.md
+  - 作为身心学的太极拳——谈谈为何而练: zh/articles/20240330.taichi_mind_body_tech.md
+  - 再见了，MR. PAXTON: zh/articles/20240223.bye_paxton.md
+  - 有关接触即兴舞酱中性边界和性同意的建议和声明: zh/articles/20240114.ci_boundaries_and_consent.md
+  - 最深邃的，是表面的皮肤——一次关于接触即兴的写作: zh/articles/20231013.deepest_surface_skin_ci_writing.md
+  - “与任何人或事物共舞” | 社群联动访谈: zh/articles/20230929.dance_with_anyone_interview.md
+  - 我们需要什么样的接触即兴？——Ong访谈片段: zh/articles/20230918.ong_interview_ci_needs.md
+  - 2023全球潜动谱上海站回顾: zh/articles/20230702.2023_global_underscore_shanghai_review.md
+  - 分享｜如果还未从lockdown的创伤中恢复过来欢迎来跳“接触即兴”: zh/articles/20221128.ci_post_lockdown_healing.md
+  - 接触即兴指南: zh/articles/20220902.ci_guide.md
+  - 分享｜接触即兴是一件需要不断练习的功课: zh/articles/20220322.ci_requires_practice.md
+  - 分享｜几个关于失重的想法: zh/articles/20220314.thoughts_on_weightlessness.md
+  - 分享 │ 我的身体，没有那么笨: zh/articles/20220303.my_body_is_not_dumb.md
+  - 临在-感受当下的力量（下篇：具体方法）: zh/articles/20220131.article_presence_part_2.md
+  - 好文分享｜临在-感受当下的力量（上）: zh/articles/20220130.article_presence_part_1.md
+  - 牛尾Recall接触即兴的特别一刻: zh/articles/20220129.ox_tail_recall_ci_moment.md
+  - 2022元旦新年舞酱回顾: zh/articles/20220105.new_year_dance_review.md
+  - 关于说"不"的思考: zh/articles/20211222.about_say_no.md
+  - 接触即兴中的即兴: zh/articles/20211209.improvisation_in_ci.md
+  - 工具的身体与交流的身体——两种社群下的接触即兴: zh/articles/20211124.tool_body_vs_communicative_body.md
+  - 接触即兴，它到底是什么？ III (完): zh/articles/20211110.what_is_ci_part_3.md
+  - 接触即兴，它到底是什么？ II (连载): zh/articles/20211109.what_is_ci_part_2.md
+  - 接触即兴，它到底是什么？  I (连载): zh/articles/20211108.what_is_ci_part_1.md
+  - 10月30日户外舞酱回顾: zh/articles/20211106.october_outdoor_dance_review.md
+  - Questioning Contact Improvisation 质疑接触即兴: zh/articles/20210926.questioning_ci.md
+  - 好文分享 | “身心学”：第三人称的自我观察: zh/articles/20210923.article_somatics_self_observation.md
+  - 线上 ｜ 第一次的读书讨论会 “接触即兴是什么？”: zh/articles/20210822.online_first_book_club.md
+  - 好文│收获 ~ 一个接触即兴的历史 by Nancy Stark Smith: zh/articles/20210616.article_history_of_ci.md
+  - 这些综艺节目竟然藏着这么多的宝藏音乐？: zh/articles/20201025.variety_show_music_treasures.md
+  - 李铁桥：即兴是拥抱自由的最佳途径: zh/articles/20201023.li_tieqiao_embrace_freedom.md
+  - '俞亚男: “对呀!人首先要愉悦的是你自己。”': zh/articles/20200916.yu_yanan_self_joy.md
+  - 好文 | 皮娜·鲍什 PK 崔莎·布朗 —— “为什么动”与“怎么动”的C位之争: zh/articles/20200815.article_pina_bausch_vs_trisha_brown.md
+  - 好文 | 自由还是限制，这是个问题。: zh/articles/20200808.article_freedom_or_limitation.md
+  - 好文 | 即兴是这个时代的奢侈品: zh/articles/20200723.article_improvisation_luxury.md
+  - Dancing with Myself 当身体成为河流: zh/articles/20200710.dancing_with_myself.md
+  - 分享｜JAM guidelines + resources 舞酱指南+资源: zh/articles/20200523.jam_guidelines.md
+  - 分享｜This is the sound of one page turning 这是一页翻过的声音: zh/articles/20200508.this_is_the_sound_of_one_page_turning.md
+  - 接触即兴后，他们想说…【附SHCI 12月常规活动】: zh/articles/20191203.after_ci_what_they_say.md
+  - 我和接触即兴的日子: zh/articles/20190906.my_days_with_ci.md
+  - 推荐｜ 台湾骉舞剧场 《自由步》: zh/articles/20190729.recommend_taiwan_dance_theater.md
   - 古名伸的舞蹈救国论: zh/articles/20190725.gu_dance_save_nation.md
+  - 全球潜动谱回顾 Global Underscore Harvest: zh/articles/20190626.global_underscore_harvest_review.md
+  - 这个夏天，我们一起跳舞吧| 寸草舞集六月活动 Inch Dance June Activities: zh/articles/20190531.inch_dance_june_activities.md
+  - 推荐｜《Why?》来看六名舞者的回答: zh/articles/20190508.recommend_why_dancers_answers.md
+  - 传承，终结，开启——巴特尼芙基本动作探索的路标: zh/articles/20190409.bartenieff_exploration.md
+  - 古舞团 “接触即兴在台湾”-浓缩版: zh/articles/20190224.gu_ci_in_taiwan_summary.md
+  - 古舞团 “接触即兴在台湾”: zh/articles/20190116.gu_ci_in_taiwan.md
+  - 好文分享＋回顾 | 游戏的不同层面 Levels of the Game: zh/articles/20190115.article_game_levels.md
+  - 好文分享  将“不”当作一个答案: zh/articles/20181201.article_no_as_answer.md
+  - 全球潜动谱日活动回顾: zh/articles/20180704.global_underscore_day_review.md
+  - Irene飞翔工作坊小记: zh/articles/20180524.irene_workshop_notes.md
+  - 一次接触即兴之后的余韵: zh/articles/20180517.after_jam_reflection.md
+  - 回顾 | 四月接触即兴大咖工作坊 身体有多美好: zh/articles/20180428.review_april_jam_workshop.md
+  - 笔记/ 给身体放个假，你能做到吗?  续篇: zh/articles/20180131.note_give_body_a_break_cont.md
+  - 笔记 / 给身体放个假，你能做到吗？: zh/articles/20180129.note_give_body_a_break.md
 - 工作坊:
   - 7.30/31 当即兴遇上接触即兴——Luc Jacobs即兴特训班: zh/workshops/20240626.luc_workshop.md
   - 无限的身体可能 许程崴深圳+上海 双城工作坊回顾: zh/workshops/20240331.xu_shanghai_shenzhen_workshop_review.md
+  - 增设单日票+上海欢迎舞酱｜2024许程崴接触即兴舞蹈工作坊 ·深圳（3.9-10）+上海（03.15-17）: zh/workshops/20240305.xu_chengwei_shenzhen_single_day_ticket.md
+  - 3.10周日空降飞行带领：Nikolaï「自舞之舞」: zh/workshops/20240305.nikolai_self_dance.md
+  - Last Call 早鸟截至3.1｜2024许程崴接触即兴舞蹈工作坊 ·上海（03.15-17）: zh/workshops/20240301.last_call_early_bird_xu_chengwei_shanghai.md
+  - 报名开启｜凌云焰身体场域创作研修班（上海）2024年2月17日抵临: zh/workshops/20240116.li_ning_body_theatre_training.md
+  - 02/25 凌云焰•李凝「肢体剧场的基础训练及思维方式」一日工作坊: zh/workshops/20240116.li_ning_body_field_creation.md
+  - 2024许程崴接触即兴舞蹈工作坊 双城记：深圳（3.09-10）+上海（3.15-17）: zh/workshops/20240105.xu_chengwei_workshop_shenzhen_shanghai.md
+  - 「变·身」｜2024许程崴接触即兴舞蹈工作坊 ·上海（03.15-17）: zh/workshops/20240105.transform_body_xu_chengwei_shanghai.md
+  - 「多面身体」｜2024许程崴接触即兴舞蹈工作坊 ·深圳（03.09-10）: zh/workshops/20240105.multifaceted_body_xu_chengwei_shenzhen.md
+  - 国庆工作坊倒计时：增设单日票和东艺演出赠票福利: zh/workshops/20230927.survival_workshop_countdown.md
+  - 10月4-6日 「生存即关怀——关于接触即兴的身体对话」上海国际导师工作坊: zh/workshops/20230903.survival_workshop_zoe_ong.md
+  - 9/15-17 「身心排列：开发身体链条与情感创意」上海梁嘉能身心工作坊: zh/workshops/20230816.body_chain_emotion_creativity_david.md
+  - 身心排列：梁嘉能专场公益直播（8/10、8/16）: zh/workshops/20230808.body_mind_alignment_david_live.md
+  - 「身体版图」许程崴接触即兴上海工作坊: zh/workshops/20230805.body_map_xu_chengwei_shanghai_workshop.md
+  - 5/7「身体材料 Body Material」一日密集工作坊 by 丹艺 Daniel Rojasanta: zh/workshops/20230429.body_material_workshop_by_daniel.md
+  - 「飞翔与降落」接触即兴工作坊: zh/workshops/20221203.flying_landing_contact_improvisation.md
+  - 「回归:连接」工作坊回顾: zh/workshops/20221021.reconnection_workshop_review.md
+  - 早鸟最后一天！「回归连接 re:connection」寸草国庆工作坊: zh/workshops/20220915.reconnection_national_day_workshop_last_call.md
+  - 「回归连接 re:connection」寸草国庆工作坊: zh/workshops/20220827.reconnection_workshop.md
+  - CI舞动力工作坊: zh/workshops/20220302.ci_dance_power_workshop.md
+  - 「一半的自由」接触即兴一日工作坊: zh/workshops/20220211.half_freedom_contact_improvisation.md
+  - 接触即兴「全接触」工作坊: zh/workshops/20211129.ci_full_contact.md
+  - 当接触即兴遇见巴西战舞| 6.26-6.27工作坊+舞酱: zh/workshops/20210525.contact_improvisation_meets_capoeira.md
+  - 5/2 接触即兴主题工作坊：进入与离开: zh/workshops/20210429.contact_improvisation_enter_exit.md
+  - 安全的飞翔CI 工作坊回顾，他们说了什么: zh/workshops/20210418.safe_flight_ci_workshop_review.md
+  - Gentle Flights Workshop | 安全的飞翔接触即兴工作坊: zh/workshops/20210331.gentle_flights_contact_improvisation.md
+  - 上海｜夏都小镇后街 10月2日，邀你体验即兴舞蹈与静坐冥想: zh/workshops/20200917.imporv_meditation_workshop.md
+  - 上海｜八月接触即兴工作坊「地心引力」: zh/workshops/20200812.shanghai_august_contact_improvisation_gravity.md
+  - 线上| 跟着Abby、Ming-Lung走进「放松技术」的世界！: zh/workshops/20200630.online_abby_ming_lung_relax.md
+  - 上海｜《虎生》儿童舞蹈工作坊＋演出套票: zh/workshops/20191106.children_tiger_workshop.md
+  - 推荐｜丢掉一切理所当然，重新开始把玩世界: zh/workshops/20191010.mix_workshop_at_cloud.md
+  - 归来｜OTTO  AKKANEN 接触即兴工作坊: zh/workshops/20190608.otto_akkanen_contact_improvisation_return.md
+  - 报名｜气音相形、音愈静观工作坊: zh/workshops/20190513.breath_sound_workshop.md
+  - 报名｜运动探索工作坊 Movement Exploration Workshop: zh/workshops/20190410.movement_exploration_workshop.md
+  - 报名｜OTTO AKKANEN一人独处的感觉工作坊延伸版: zh/workshops/20190403.otto_akkanen_solitude_workshop_extension.md
+  - 即兴舞动身体开发工作坊 | 春天里，找回自己又暖又美的身体: zh/workshops/20190227.spring_improvisation_body_development.md
+  - 报名｜三月接触即兴密集工作坊 One Sense Alone Contact Improvisation Workshop: zh/workshops/20190220.one_sense_alone_workshop.md
+  - 本周日| 如果你听说过雅克勒考克...身体与面具初阶工作坊@上海: zh/workshops/20181217.intro_body_mask_workshop_shanghai.md
+  - 舞启2019 | “舞蹈火锅”的美味邀约: zh/workshops/20181215.dancing_hotpot.md
+  - 双十一 「混乱中的美丽」 接触即兴工作坊: zh/workshops/20181107.beauty_in_chaos_contact_improvisation.md
+  - Halloween Treat | 来自瑞士及纽约的身体邀约: zh/workshops/20181025.halloween_treat_swiss_ny_body_invitation.md
+  - 盛夏的邀约 / 身体与意识 Body&Mind: zh/workshops/20180611.summer_invitation_body_mind.md
+  - 上海五月接触即兴活动 & 安全飞翔工作坊: zh/workshops/20180507.shanghai_may_contact_improvisation_safe_flight.md
+  - '如舞如诗,如戏亦如梦 :                         上海Underscore工作坊': zh/workshops/20180310.yanfang_workshop.md
+  - 大咖艺术家来沪                                  2018接触即兴工作坊: zh/workshops/20180205.yanfang_workshop.md
+  - 灵魂操控师 | 当代偶戏暨物品表演工作坊: zh/workshops/20170807.soul_controller_contemporary_puppetry_workshop.md
+  - 余德耀美术馆舞动工作坊/身体的小宇宙 YUZ Museum workshop/ The universe in our body: zh/workshops/20170521.yuz_museum_workshop_the_universe_in_our_body.md
 - 关于:
   - 接触即兴指南: zh/about/20240820.about_ci.md
+- 演出:
+  - 邀请你看 | 寸草 x 彭涨作品 《蛮好 Most of the time is Boring》上纽大ICA: zh/performance/20240418.ica_most_of_the_time_is_boring.md
+  - 寸草即兴表演呈现：我的202X年: zh/performance/20210118.my_202x.md
+  - 福利｜新媒体表演《分身·源启》开放彩排: zh/performance/20191016.duplicate_origin_rehearsal.md
+  - 青山绿水风的呢喃: zh/performance/20190804.wind_whisper.md
+  - 來看｜身体。话: zh/performance/20190514.body_talk.md
+  - 水＊人＊环境的对话＠乌镇: zh/performance/20171020.wuzheng_water_people_environment.md
 - 活动存档:
   - '2024':
-    - 2024 八月寸草接触即兴活动时间表 Aug Activities: zh/archive/20240726.aug_activities.md
-    - 第五期SHCI青年支持计划的名单(2024.07--09月): zh/archive/20240626.5th_youth_support_namelist.md
-    - 2024 七月寸草接触即兴活动时间表 JUL Activities: zh/archive/20240626.jul_activities.md
-    - 6月23日 2024全球潜动谱上海站 Global Underscore in ShangHai: zh/archive/20240620.0623_global_underscore_in_shanghai.md
-    - 6月14日（周五） 「無動不舞」放映会: zh/archive/20240612.gu_film.md
-    - 2024 六月寸草接触即兴活动时间表 JUN Activities: zh/archive/20240527.jun_activities.md
-    - 上海接触即兴青年支持计划第5期(2024年7月-9月)招募: zh/archive/20240527.5th_youth_support_recruit.md
-    - 太极无极桩练习  勇者带领: zh/archive/20240506.taichi_practise.md
-    - 2024 五月寸草接触即兴活动时间表 May Activities: zh/archive/20240430.may_activities.md
-    - 寻找合作摄影/摄像师: zh/archive/20240418.looking_for_photographer_videographer.md
-    - 4月【身体盲盒】巴西战舞：一半是舞蹈，一半是格斗: zh/archive/20240412.april_blindbox_capoeira.md
-    - 一起站桩【每日线上练习】开放报名: zh/archive/20240331.daily_stand.md
-    - 2024 四月寸草接触即兴活动时间表 April Activities: zh/archive/20240330.april_activities.md
-    - 第四期SHCI青年支持计划的名单(2024.04--06月): zh/archive/20240330.4th_youth_support_namelist.md
-    - 保持身心的弹性 | 太极X巴特尼芙 身心研习课平日班/周末班同步开启: zh/archive/20240325.taichi_bartenieff_class.md
+    - 2024 八月寸草接触即兴活动时间表 Aug Activities: zh/archive/2024/20240726.aug_activities.md
+    - 2024 七月寸草接触即兴活动时间表 JUL Activities: zh/archive/2024/20240626.jul_activities.md
+    - 第五期SHCI青年支持计划的名单(2024.07--09月): zh/archive/2024/20240626.5th_youth_support_namelist.md
+    - 6月23日 2024全球潜动谱上海站 Global Underscore in ShangHai: zh/archive/2024/20240620.0623_global_underscore_in_shanghai.md
+    - 6月14日（周五） 「無動不舞」放映会: zh/archive/2024/20240612.gu_film.md
+    - 2024 六月寸草接触即兴活动时间表 JUN Activities: zh/archive/2024/20240527.jun_activities.md
+    - 上海接触即兴青年支持计划第5期(2024年7月-9月)招募: zh/archive/2024/20240527.5th_youth_support_recruit.md
+    - 太极无极桩练习  勇者带领: zh/archive/2024/20240506.taichi_practise.md
+    - 2024 五月寸草接触即兴活动时间表 May Activities: zh/archive/2024/20240430.may_activities.md
+    - 寻找合作摄影/摄像师: zh/archive/2024/20240418.looking_for_photographer_videographer.md
+    - 4月【身体盲盒】巴西战舞：一半是舞蹈，一半是格斗: zh/archive/2024/20240412.blindbox_capoeira.md
+    - 一起站桩【每日线上练习】开放报名: zh/archive/2024/20240331.daily_stand.md
+    - 2024 四月寸草接触即兴活动时间表 April Activities: zh/archive/2024/20240330.april_activities.md
+    - 第四期SHCI青年支持计划的名单(2024.04--06月): zh/archive/2024/20240330.4th_youth_support_namelist.md
+    - 保持身心的弹性 | 太极X巴特尼芙 身心研习课平日班/周末班同步开启: zh/archive/2024/20240325.taichi_bartenieff_class.md
+    - 上海接触即兴青年支持计划第4期(2024年4月-6月)招募: zh/archive/2024/20240305.4th_youth_support_recruit.md
+    - 2024 三月寸草接触即兴活动时间表 Mar Activities: zh/archive/2024/20240229.mar_activities.md
+    - 【新春大吉】2024寸草2月寒假及活动时间表FEB. Activities: zh/archive/2024/20240129.feb_activities.md
+    - 1月21日身体盲盒揭盲——亚历山大技术: zh/archive/2024/20240115.blindbox_alexander_technique.md
+  - '2023':
+    - 2024 一月寸草接触即兴活动时间表 Jan Activities: zh/archive/2023/20231227.jan_activities.md
+    - 第三期SHCI青年支持计划的名单(2024.01--03月): zh/archive/2023/20231227.3th_youth_support_namelist.md
+    - 太极X巴特尼夫身心系列课｜第二期招募: zh/archive/2023/20231227. taichi_bartenieff_class.md
+    - 【12月11日新课上线】太极X巴特尼夫身心系列课: zh/archive/2023/20231205.taichi_bartenieff_class.md
+    - 十二月寸草接触即兴活动时间表 Dec Activities: zh/archive/2023/20231128.december_activities.md
+    - 上海接触即兴青年支持计划第3期(2024年1月-3月)招募: zh/archive/2023/20231128.3th_youth_support_recruit.md
+    - 身心系列课程 | 太极 x 巴特尼芙基本动作【新课特惠】: zh/archive/2023/20231114.taichi_bartenieff_class.md
+    - 十一月寸草接触即兴活动时间表 Nov Activities: zh/archive/2023/20231030.nov_activities.md
+    - 第一期身体盲盒Body Blind Box首秀揭盲: zh/archive/2023/20231030.blindbox_voguing.md
+    - SHCI第二轮获得青年支持的名单(10-12月): zh/archive/2023/20230929.2th_youth_support_namelist.md
+    - 十月寸草接触即兴活动时间表 Oct. Activities: zh/archive/2023/20230924.oct_activities.md
+    - '[时空身界－具身物理的诗意] 泰国艺术家Ong大理接触即兴工作坊 10月9-11日': zh/archive/2023/20230903.ong_at_dali.md
+    - 分享：诗意的入口、身体的螺旋｜Anjelika接触即兴工作坊@杭州｜社群联动: zh/archive/2023/20230903.anjelika_at_hangzhou.md
+    - 自然身体之诗|露营接触即兴工作坊·成都: zh/archive/2023/20230903.anjelika_at_chengdu.md
+    - 九月寸草接触即兴活动时间表 Sept Activities: zh/archive/2023/20230831.september_activities.md
+    - 分享：在呼与吸之间看见 | 成人身体开发与肢体表达工作坊: zh/archive/2023/20230829.zoe_workshop.md
+    - 分享：“向内•向外” 接触即兴社群联动: zh/archive/2023/20230829.ong_anjelika_beijing.md
+    - 很遗憾的通知大家：我们要涨价了……: zh/archive/2023/20230826.price_up_announce.md
+    - 8月27日  POP UP 周日小课分享「注意力分配」: zh/archive/2023/20230826.pop_up_class_hongyu.md
+    - 上海接触即兴青年支持计划第2期(10-12月)招募: zh/archive/2023/20230826.2th_youth_support_recruit.md
+    - 八月寸草接触即兴活动时间表 Aug Activities: zh/archive/2023/20230727.aug_activities.md
+    - SHCI上海接触即兴主题征文- 害怕接触: zh/archive/2023/20230709.callfor_articles.md
+    - SHCI第一轮获得青年支持的名单(7-9月): zh/archive/2023/20230702.1th_youth_support_namelistmd.md
+    - 七月寸草接触即兴活动时间表 July Activities: zh/archive/2023/20230628.july_activities.md
+    - 6月18日 2023全球潜动谱上海站 Global Underscore in ShangHai: zh/archive/2023/20230615.global_underscore_in_shanghai.md
+    - 上海接触即兴青年支持计划开启招募: zh/archive/2023/20230615.1th_youth_support_recruit.md
+    - 六月寸草接触即兴活动时间表 June Activities: zh/archive/2023/20230529.june_activities.md
+    - 五月寸草接触即兴活动时间表 May Activities: zh/archive/2023/20230426.may_activities.md
+    - 四月寸草接触即兴活动时间表 April Activities: zh/archive/2023/20230328.april_activities.md
+    - 活动分享| 2023TOWARDS接触即兴51周年泰国大集会之古名伸工作坊: zh/archive/2023/20230321.2023_towards.md
+    - 寸草新晖，春衣上新: zh/archive/2023/20230305.new_close.md
+    - 三月周课｜身体活了吗: zh/archive/2023/20230303.march_week_class.md
+    - 三月寸草接触即兴活动时间表 Mar Activities: zh/archive/2023/20230227.mar_activities.md
+    - 二月寸草接触即兴活动时间表 Feb Activities: zh/archive/2023/20230131.feb_activities.md
+  - '2022':
+    - 来来来「元旦轻松小聚啦」舞酱+旧物交换+吃吃喝喝: zh/archive/2022/20221227.jam_exchange.md
+    - 十二月寸草接触即兴活动时间表 Dec Activities: zh/archive/2022/20221128.dec_activities.md
+    - 邀请身体来听一场音乐会 | 「仙女木预言」+CI主题舞酱: zh/archive/2022/20221030.silence_jam.md
+    - 十一月寸草接触即兴活动时间表 November Activities: zh/archive/2022/20221030.november_activities.md
+    - 十月寸草接触即兴活动时间表 Octorber Activities: zh/archive/2022/20220928.octorber_activities.md
+    - 寸草9月周日常规舞酱SUNDAY JAM: zh/archive/2022/20220909.september_jam.md
+    - 上海接触即兴i.lab上线: zh/archive/2022/20220907.i_lab.md
+    - SHCI VINYL JAM 黑胶舞会 | 本周日9/4: zh/archive/2022/20220902.vinyl_jam.md
+    - 九月寸草接触即兴活动时间表 September Activities: zh/archive/2022/20220828.september_activities.md
+    - 八月寸草接触即兴活动时间表 August Activities: zh/archive/2022/20220731.august_activities.md
+    - 后疫情时代：城市探索与观察 |《我们的城市》2022青少年戏剧夏令营: zh/archive/2022/20220704.post_pandemic_city_exploration.md
+    - 七月寸草活动时间表 July Activities: zh/archive/2022/20220629.july_activities.md
+    - 六月寸草活动时间表 June Activities: zh/archive/2022/20220601.june_activities.md
+    - 五月活动时间表 May Activities: zh/archive/2022/20220501.may_activities.md
+    - 居家亲子肢体活动・第二弹：敲敲打打真快乐: zh/archive/2022/20220426.home_parent_child_body_activity_2.md
+    - 分享｜镜头里的即兴: zh/archive/2022/20220403.improv_in_camera.md
+    - 居家亲子肢体活动・第一弹：春天里最特别的花: zh/archive/2022/20220401.home_parent_child_body_activity_1.md
+    - SHCI 四月线上先相见 Let's meet online: zh/archive/2022/20220331.shci_april_online_meet.md
+    - SHCI 三月活动时间表 March Activities: zh/archive/2022/20220301.march_activities.md
+    - '"创意肢体律动"课程：鼓励孩子勇敢地表达，做出属于自己的身体动作。': zh/archive/2022/20220221.creative_body_movement_for_children.md
+    - 基础现代舞：“白日梦”该醒了（摇晃）现代舞课春节后继续。: zh/archive/2022/20220215.basic_modern_dance_daydream.md
+    - 亲子｜年，当然还没过完，周六一起来闹元宵: zh/archive/2022/20220209.parent_child_lantern_festival.md
+    - SHCI 二月活动时间表: zh/archive/2022/20220203.february_activities.md
+    - 给孩子的春季常规课程: zh/archive/2022/20220126.spring_class_for_children.md
+  - '2021':
+    - 2022新年舞酱: zh/archive/2021/20211223.2022_new_year_eve_jam.md
+    - 征集|2021接触即兴中[印象深刻的瞬间]: zh/archive/2021/20211218.call_for_moment.md
+    - 孩子的恶作剧？成人地老天荒的友谊？演出来看！“乔麦”名作《三角形》亲子工作坊: zh/archive/2021/20211208.parent_children_workshop.md
+    - 十二月至一月常规舞酱: zh/archive/2021/20211205.december_january_jam.md
+    - SHCI 十二月至一月活动安排: zh/archive/2021/20211202.december_january_class.md
+    - 十一月暖阳户外舞酱回顾: zh/archive/2021/20211126.november_outjam.md
+    - 11月周日接触即兴常规课第三期［感官与身体］: zh/archive/2021/20211118.november_class2.md
+    - 12月基础现代舞：年末特别企划，做一场“白日梦”: zh/archive/2021/20211117.december_modern_dance_day_dream.md
+    - 11月周日常规课第二期［身体与画面］: zh/archive/2021/20211111.november_class1.md
+    - 一起深呼吸 开启十一月周末常规课: zh/archive/2021/20211103.november_breath_class.md
+    - ​ SHCI 十一月线上放映＆读书讨论会: zh/archive/2021/20211102.november_online_activity.md
+    - SHCI 十一月活动 | 常规系列课程＆线上放映读书会: zh/archive/2021/20211101.november_activity.md
+    - SHCI 十月活动 | 即兴艺术节＆常规系列课程＆读书讨论会: zh/archive/2021/20210930.october_activity.md
+    - '11月身体训练常规课 : 基础现代舞': zh/archive/2021/20210927.nov_body_train.md
+    - 线上周课：2021秋季学期身心即兴: zh/archive/2021/20210920.online_maioui.md
+    - 【福利】柏林爱乐同款音乐会、名画碰撞古典音乐……9月给娃最生动的艺术与身体启蒙！: zh/archive/2021/20210907.art_for_children.md
+    - 给孩子们的创意肢体及芭蕾启蒙: zh/archive/2021/20210902.ballet_for_children.md
+    - SHCI 九月课程 | 新增新人入门系列课程和电影放映: zh/archive/2021/20210901.september_activities.md
+    - 上海 | 八月活动时间表 SHCI August Activities: zh/archive/2021/20210729.august_activities.md
+    - '8月身体训练常规课 : 基础现代舞，用身体讲述自己的故事。': zh/archive/2021/20210721.august_body_train.md
+    - 上海 | 七月活动时间表 SHCI July Activities ＆当接触即兴遇见巴西战舞视频回顾: zh/archive/2021/20210704.july_activities.md
+    - 线上｜2021每遇舞蹈暑期“七上八下”名师营！: zh/archive/2021/20210621.online_meet_dance_class.md
+    - 上海 | 六月活动时间表 SHCI June Activities: zh/archive/2021/20210602.june_activities.md
+    - '6月身体训练常规课 : 基础现代舞。舞动听自己内在的声音。': zh/archive/2021/20210524.june_body_train.md
+    - 上海｜五一戶外野餐舞酱照片回顾 ＆ 五月活动时间表 SHCI May Activities: zh/archive/2021/20210504.may_activities.md
+    - '【早鸟优惠】5月身体训练常规课 : 基础现代舞。周一、周日相互调课方案启动。': zh/archive/2021/20210501.may_body_train.md
+    - 5月身体训练常规课 ｜ 基础现代舞，周一、周日任你选！我们有周末课了！: zh/archive/2021/20210415.may_body_train.md
+    - 上海｜四月活动时间表 SHCI April Activities: zh/archive/2021/20210401.april_activities.md
+    - 可可爱爱的混酱回忆录～（多图提醒！）: zh/archive/2021/20210326.mixjam_photos.md
+    - 亲子活动 | 感官唤醒，与孩子一起发现身体里的生活美学: zh/archive/2021/20210316.parent_children_activity.md
+    - '上海 | 4月身体训练常规课 : 基础现代舞': zh/archive/2021/20210312.april_body_train.md
+    - 上海｜三月活动时间表 SHCI March Activities: zh/archive/2021/20210303.march_activities.md
+    - '上海｜【早鸟倒计时三天】3月身体训练常规课 : 基础现代舞&基础芭蕾': zh/archive/2021/20210226.march_body_train.md
+    - 上海｜幼儿创意肢体律动、芭蕾启蒙春季班: zh/archive/2021/20210224.children_ballet.md
+    - 新年开工犒赏自己一对新袜子吧！: zh/archive/2021/20210218.new_socks.md
+    - '上海｜3月身体训练常规课 : 基础现代舞&基础芭蕾': zh/archive/2021/20210202.march_class.md
+    - 上海｜二月活动时间表 SHCI February Activities: zh/archive/2021/20210201.february_activities.md
+    - 1月24日活動順延通知: zh/archive/2021/20210123.putoff_announce.md
+    - 上海｜儿童冬令营『纸想和你在一起』: zh/archive/2021/20210108.children_winter_camp.md
+  - '2020':
+    - '上海｜【早鸟倒数三天】1月身体训练常规课: 基础现代舞&基础芭蕾': zh/archive/2020/20201228.january_ballet_modern_dance.md
+    - 十二月混酱：新年大大大混酱！舞蹈影像 / 日本CI / 摇摆舞 / 3小时舞酱+现场音乐: zh/archive/2020/20201218.october_mixjam.md
+    - 12月-1月即兴编创小课：用“舞蹈界爱因斯坦”的力学理论科学玩即兴: zh/archive/2020/20201209.december_imporv_choreography.md
+    - '上海｜12月＆1月身体训练常规课: 基础现代舞&基础芭蕾': zh/archive/2020/20201202.december_ballet_modern_dance.md
+    - 上海｜十二月活动时间表 SHCI December Activities: zh/archive/2020/20201201.december_activities.md
+    - 12月新年混酱马拉松招募中！即兴乐手 / 演讲 / 表演 / 工作坊带领  / ...: zh/archive/2020/20201123.december_mixjam.md
+    - 你也想和坂本龙一那样，拓印下属于你自己的声音吗？: zh/archive/2020/20201118.music_class.md
+    - '【早鸟倒数3天】11月身体训练常规课: 基础现代舞&基础芭蕾 “冬日优惠”': zh/archive/2020/20201113.november_ballet_modern_dance.md
+    - 十一月混酱：接触即兴和（后后）后现代舞: zh/archive/2020/20201109.november_mixjam.md
+    - '上海｜11月身体训练常规课: 现代舞&芭蕾 “冬日优惠”': zh/archive/2020/20201103.november_ballet_modern_dance.md
+    - 上海｜十一月活动时间表 SHCI November Activities: zh/archive/2020/20201102.november_activities.md
+    - 招募 ｜ 上海接触即兴社区 ｜ 视频制作 & 设计志愿者: zh/archive/2020/20201022.looking_for_video_maker.md
+    - 线上｜ 关于音乐/舞蹈的困惑,这儿一并给你解答！: zh/archive/2020/20201018.online_talk_dance_music.md
+    - 十月混酱：接触即兴和身心学: zh/archive/2020/20201013.october_mixjam.md
+    - '上海 | “旋转、跳跃”舞动吧！十月身体训练系列: 零基础芭蕾': zh/archive/2020/20201011. october_ballet.md
+    - 上海│十月身体训练系列：给大人的芭蕾课: zh/archive/2020/20201008.october_ballet.md
+    - 上海｜十月活动时间表 SHCI October Activities: zh/archive/2020/20201001.october_activities.md
+    - '上海 | 十月身体训练常规课: 从内出发，打开身体动态意识': zh/archive/2020/20200923.october_body_practise.md
+    - 放映 | 古舞團紀錄片 『无动不舞』: zh/archive/2020/20200915.gu_film.md
+    - 九月混酱：接触即兴和东方身体智慧: zh/archive/2020/20200910.september_mixjam.md
+    - 线上｜身心「共振」，自我愉悦的指南针。: zh/archive/2020/20200908.online_somatics_class.md
+    - 上海｜九月活动时间表 SHCI September Activities: zh/archive/2020/20200831.september_activities.md
+    - 上海｜让孩子感知变得丰富：创意肢体律动: zh/archive/2020/20200828.children_workshop.md
+    - 回顾 |《纸想和你在一起》儿童暑期活动: zh/archive/2020/20200825.children_summer_camp_review.md
+    - 上海｜九月身体训练系列:零基础芭蕾: zh/archive/2020/20200822.september_ballet.md
+    - '上海｜九月身体训练常规课: 基础现代舞': zh/archive/2020/20200810.september_modern_dance.md
+    - 上海｜八月混酱: zh/archive/2020/20200807.august_mix_jam.md
+    - 上海|《纸想和你在一起》儿童暑期二日营: zh/archive/2020/20200801.children_summer_camp.md
+    - 上海｜八月活动时间表 SHCI August Activities: zh/archive/2020/20200731.august_activities.md
+    - 线上|【MaiOui暑期名师营】七月回顾: zh/archive/2020/20200727.maioui_online_workshop_review.md
+    - 上海｜八月身体训练常规课・零基础芭蕾: zh/archive/2020/20200722.august_ballet.md
+    - 上海 | 一日混酱: zh/archive/2020/20200707.oneday_mixjam.md
+    - 上海｜七月活动时间表 SHCI July Activities: zh/archive/2020/20200629.july_activities.md
+    - 炎夏舞动，加开一班｜上海・七月基础现代舞常规课: zh/archive/2020/20200628.july_modern_dance.md
+    - 来！今晚线上公益课: zh/archive/2020/20200623.online_class.md
+    - 推荐｜“口袋三原色”——身体的调色盘: zh/archive/2020/20200618.maioui_online_workshop.md
+    - 给自己拥抱现代舞的机会｜上海・七月基础现代舞常规课: zh/archive/2020/20200615.july_activity.md
+    - 上海｜六月活动时间表  SHCI June Activities: zh/archive/2020/20200601.june_activities.md
+    - 2020终于可以开始跳舞了！｜上海・六月基础现代舞常规课: zh/archive/2020/20200514.june_modern_dance.md
+    - 身体的复苏＆Underscore练习: zh/archive/2020/20200501.underscore.md
+    - 來自芬兰的问候: zh/archive/2020/20200412.greet_from_finland.md
+    - 二月份活动暂停通知: zh/archive/2020/20200211.feb_pause.md
+    - 1月18 一日混酱地点更动启示: zh/archive/2020/20200118.new_year_mixjam_update.md
+    - 新年新混酱： SHCI一日联欢: zh/archive/2020/20200110.new_year_mixjam.md
+    - SHCI上海接触即兴一月活动时间表: zh/archive/2020/20200108.jun_activity.md
+  - '2019':
+    - 麦哲伦环球航海历险记 | 上海2020儿童戏剧舞蹈冬令营: zh/archive/2019/20191204.children_winter_camp.md
+    - 上海｜十二月基础现代舞常规课: zh/archive/2019/20191104.dec_activity.md
+    - 上海| 十一月常规活动时间表: zh/archive/2019/20191102.nov_activity.md
+    - 福利|现代舞蹈中神奇的发明—骉舞剧场《自由步》10年编舞计划: zh/archive/2019/20190703.talking_freestep.md
+    - 全球潜动谱日 Globe Underscore 2019: zh/archive/2019/20190619.globe_underscore.md
+    - 寸草舞集五月活动 Inch Dance May Activities: zh/archive/2019/20190507.may_activities.md
+    - 寸草舞集四月活动 Inch Dance April Activities: zh/archive/2019/20190407.april_activities.md
+    - 报名｜巴特尼芙基本动作探索.系列课程: zh/archive/2019/20190328.bartenieff_series.md
+    - 寸草舞集三月活动 Inch Dance March Activities: zh/archive/2019/20190228.march_activities.md
+    - 报名｜巴特尼芙基本动作探索.正式课程: zh/archive/2019/20190225.bartenieff.md
+    - 寸草舞集二月活动 February Activities: zh/archive/2019/20190212.february_activities.md
+    - 报名｜巴特尼芙基本动作探索. 公开课＆系列课程: zh/archive/2019/20190211.bartenieff.md
+    - 送狗迎猪 回顾与展望＆二月活动时间: zh/archive/2019/20190201.feb_activity.md
+    - Fri. ｜环境音乐与舞酱之夜 Dancing with ambient music: zh/archive/2019/20190117.dancing_with_ambient_music.md
+    - 舞启2019 |寸草舞集1月活动 Inch dance January Activities: zh/archive/2019/20190102.january_activities.md
+  - '2018':
+    - 舞启2019 ：美术馆之夜，舞酱Party，一起跳舞跨年！: zh/archive/2018/20181227.new_year_eve_jam.md
+    - 寸草舞集12月活动 Inch dance December Activities: zh/archive/2018/20181130.december_cctivities.md
+    - 寸草舞集11月活动 Inch dance November Activities: zh/archive/2018/20181102.november_activities.md
+    - 报名| 2018「艺术天空」12小时特别活动: zh/archive/2018/20181022.art_sky_12h.md
+    - 上海/十月活动时间表  October activities: zh/archive/2018/20181003.oct_activities.md
+    - 9.29 潜动谱Underscore活动地点通知: zh/archive/2018/20180926.underscore.md
+    - 九月上海接触即兴活动 September SH C I Activities: zh/archive/2018/20180906.sep_activity.md
+    - 『无动不舞』，古舞團25周年影片放映会: zh/archive/2018/20180807.gu_film.md
+    - 八月跳舞要跳过瘾！在哪跳, 跟谁跳, 怎么跳？: zh/archive/2018/20180805.aug_activity.md
+    - 报名|寸草舞集六月活动  舞!舞!舞！: zh/archive/2018/20180605.jun_activity.md
+    - 肢体＋戏剧 充满创意的儿童暑期营！: zh/archive/2018/20180404.chileren_summer_camp.md
+    - 上海四月接触即兴活动: zh/archive/2018/20180403.apr_activity.md
+    - 春暖花开，身体动起来！: zh/archive/2018/20180303.mar_activity.md
   - '2017':
-    - 来自生活中的灵光乍现: zh/archive/20170319.children_workshop.md
-    - 接触即兴工作坊和舞酱                   Control & Let go: zh/archive/20170312.workshop_and_jam.md
+    - 12/24(Sun)上海接触即兴活动: zh/archive/2017/20171219.sunday_activity.md
+    - 活动～本周四公益舞酱: zh/archive/2017/20171212.thusday_jam.md
+    - 生活即剧场，舞蹈走进人群: zh/archive/2017/20171123.ci_class_and_jam.md
+    - 十月跳舞月   上海接触即兴活动: zh/archive/2017/20170925.oct_activity.md
+    - 寸草舞集 八月系列课程​: zh/archive/2017/20170726.aug_activity.md
+    - 我和我自己的对话 三部曲｜               Be along with myself: zh/archive/2017/20170610.be_along_with_myself.md
+    - 周日1933老场坊舞酱                      Sunday 1933 Old Millfun JAM: zh/archive/2017/20170607.1933_jam.md
+    - SHCI 接触与即兴 Contact and Improvisation＋舞酱 Jam    5/07 10am-1pm: zh/archive/2017/20170504.shci_ci_and_jam.md
+    - SHCI  工作坊＆舞酱 毛手毛脚往哪摆 Where to put our hands and feet: zh/archive/2017/20170411.shci_where_to_put_our_hands_and_feet.md
+    - 周日的舞酱 Sunday Jam: zh/archive/2017/20170410.sunday_jam.md
+    - 1933老场坊周日舞酱                     Sunday Jam April 9th 16:30-18:30: zh/archive/2017/20170408.1933_jam.md
+    - SHCI  接触即兴工作坊 ＋舞酱          落地與滑行 Landing & Slide＋JAM: zh/archive/2017/20170327.shci_slide_and_jam.md
+    - 来自生活中的灵光乍现: zh/archive/2017/20170319.children_workshop.md
+    - 接触即兴工作坊和舞酱                   Control & Let go: zh/archive/2017/20170312.shci_let_go_and_jam.md
 plugins:
 - search
 - i18n:
@@ -58,16 +388,56 @@ plugins:
     - locale: en
       name: English
       nav_translations:
+        '"创意肢体律动"课程：鼓励孩子勇敢地表达，做出属于自己的身体动作。': '"创意肢体律动"课程：鼓励孩子勇敢地表达，做出属于自己的身体动作。'
+        02/25 凌云焰•李凝「肢体剧场的基础训练及思维方式」一日工作坊: 02/25 凌云焰•李凝「肢体剧场的基础训练及思维方式」一日工作坊
+        10月30日户外舞酱回顾: 10月30日户外舞酱回顾
+        10月4-6日 「生存即关怀——关于接触即兴的身体对话」上海国际导师工作坊: 10月4-6日 「生存即关怀——关于接触即兴的身体对话」上海国际导师工作坊
+        11月周日常规课第二期［身体与画面］: 11月周日常规课第二期［身体与画面］
+        11月周日接触即兴常规课第三期［感官与身体］: 11月周日接触即兴常规课第三期［感官与身体］
+        '11月身体训练常规课 : 基础现代舞': '11月身体训练常规课 : 基础现代舞'
+        12/24(Sun)上海接触即兴活动: 12/24(Sun)上海接触即兴活动
+        12月-1月即兴编创小课：用“舞蹈界爱因斯坦”的力学理论科学玩即兴: 12月-1月即兴编创小课：用“舞蹈界爱因斯坦”的力学理论科学玩即兴
+        12月基础现代舞：年末特别企划，做一场“白日梦”: 12月基础现代舞：年末特别企划，做一场“白日梦”
+        12月新年混酱马拉松招募中！即兴乐手 / 演讲 / 表演 / 工作坊带领  / ...: 12月新年混酱马拉松招募中！即兴乐手 / 演讲 / 表演
+          / 工作坊带领  / ...
+        1933老场坊周日舞酱                     Sunday Jam April 9th 16:30-18:30: 1933老场坊周日舞酱                     Sunday
+          Jam April 9th 16:30-18:30
+        1月18 一日混酱地点更动启示: 1月18 一日混酱地点更动启示
+        1月21日身体盲盒揭盲——亚历山大技术: 1月21日身体盲盒揭盲——亚历山大技术
+        1月24日活動順延通知: 1月24日活動順延通知
+        2 0 1 8  ●  第 二 届 Touch 接触即兴 艺术节 / 上海站 /: 2 0 1 8  ●  第 二 届 Touch 接触即兴 艺术节
+          / 上海站 /
+        2018上海即兴艺术节 從迎著风的身体开始: 2018上海即兴艺术节 從迎著风的身体开始
+        2020终于可以开始跳舞了！｜上海・六月基础现代舞常规课: 2020终于可以开始跳舞了！｜上海・六月基础现代舞常规课
+        2021年第四届上海即兴艺术节延期公告: 2021年第四届上海即兴艺术节延期公告
+        2022元旦新年舞酱回顾: 2022元旦新年舞酱回顾
+        2022新年舞酱: 2022新年舞酱
+        2023全球潜动谱上海站回顾: 2023全球潜动谱上海站回顾
+        2024 一月寸草接触即兴活动时间表 Jan Activities: 2024 一月寸草接触即兴活动时间表 Jan Activities
         2024 七月寸草接触即兴活动时间表 JUL Activities: 2024 七月寸草接触即兴活动时间表 JUL Activities
+        2024 三月寸草接触即兴活动时间表 Mar Activities: 2024 三月寸草接触即兴活动时间表 Mar Activities
         2024 五月寸草接触即兴活动时间表 May Activities: 2024 五月寸草接触即兴活动时间表 May Activities
         2024 八月寸草接触即兴活动时间表 Aug Activities: 2024 八月寸草接触即兴活动时间表 Aug Activities
         2024 六月寸草接触即兴活动时间表 JUN Activities: 2024 六月寸草接触即兴活动时间表 JUN Activities
         2024 四月寸草接触即兴活动时间表 April Activities: 2024 四月寸草接触即兴活动时间表 April Activities
+        2024许程崴接触即兴舞蹈工作坊 双城记：深圳（3.09-10）+上海（3.15-17）: 2024许程崴接触即兴舞蹈工作坊 双城记：深圳（3.09-10）+上海（3.15-17）
+        3.10周日空降飞行带领：Nikolaï「自舞之舞」: 3.10周日空降飞行带领：Nikolaï「自舞之舞」
         4月【身体盲盒】巴西战舞：一半是舞蹈，一半是格斗: 4月【身体盲盒】巴西战舞：一半是舞蹈，一半是格斗
+        5/2 接触即兴主题工作坊：进入与离开: 5/2 接触即兴主题工作坊：进入与离开
+        5/7「身体材料 Body Material」一日密集工作坊 by 丹艺 Daniel Rojasanta: 5/7「身体材料 Body Material」一日密集工作坊
+          by 丹艺 Daniel Rojasanta
+        5月身体训练常规课 ｜ 基础现代舞，周一、周日任你选！我们有周末课了！: 5月身体训练常规课 ｜ 基础现代舞，周一、周日任你选！我们有周末课了！
         6月14日（周五） 「無動不舞」放映会: 6月14日（周五） 「無動不舞」放映会
+        6月18日 2023全球潜动谱上海站 Global Underscore in ShangHai: 6月18日 2023全球潜动谱上海站 Global
+          Underscore in ShangHai
         6月23日 2024全球潜动谱上海站 Global Underscore in ShangHai: 6月23日 2024全球潜动谱上海站 Global
           Underscore in ShangHai
+        '6月身体训练常规课 : 基础现代舞。舞动听自己内在的声音。': '6月身体训练常规课 : 基础现代舞。舞动听自己内在的声音。'
         7.30/31 当即兴遇上接触即兴——Luc Jacobs即兴特训班: 7.30/31 当即兴遇上接触即兴——Luc Jacobs即兴特训班
+        8月27日  POP UP 周日小课分享「注意力分配」: 8月27日  POP UP 周日小课分享「注意力分配」
+        '8月身体训练常规课 : 基础现代舞，用身体讲述自己的故事。': '8月身体训练常规课 : 基础现代舞，用身体讲述自己的故事。'
+        9.29 潜动谱Underscore活动地点通知: 9.29 潜动谱Underscore活动地点通知
+        9/15-17 「身心排列：开发身体链条与情感创意」上海梁嘉能身心工作坊: 9/15-17 「身心排列：开发身体链条与情感创意」上海梁嘉能身心工作坊
         Beyond Dance 「不止跳舞」即兴艺术节 第一波阵容发布 （超早鸟倒计时3天）: Beyond Dance Impro Festival Early
           Release
         Beyond Dance 不止跳舞即兴艺术节 导师阵容及工作坊信息详解: 「Beyond Dance」Improv Festival Intro
@@ -77,40 +447,348 @@ plugins:
         Beyond Dance艺术节预告二：互动装置展+丸仔十分舞聊+奇妙艺术摊位: 'Beyond Dance Festival Trailer II:
           Interactive Installation Exhibition + Maru''s Ten Minutes Dance Chat + Fantastic
           Art Booth'
-        Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾
+        CI舞动力工作坊: CI舞动力工作坊
+        Dancing with Myself 当身体成为河流: Dancing with Myself 当身体成为河流
+        Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: Dancing with Myself When the Body
+          Becomes a River - Interview Review with Zoe(Zheng Yuchian)
+        Fri. ｜环境音乐与舞酱之夜 Dancing with ambient music: Fri. ｜环境音乐与舞酱之夜 Dancing with ambient
+          music
+        Gentle Flights Workshop | 安全的飞翔接触即兴工作坊: Gentle Flights Workshop | 安全的飞翔接触即兴工作坊
+        Halloween Treat | 来自瑞士及纽约的身体邀约: Halloween Treat | 来自瑞士及纽约的身体邀约
+        Irene飞翔工作坊小记: Irene飞翔工作坊小记
+        Last Call 早鸟截至3.1｜2024许程崴接触即兴舞蹈工作坊 ·上海（03.15-17）: Last Call 早鸟截至3.1｜2024许程崴接触即兴舞蹈工作坊
+          ·上海（03.15-17）
+        ONLY 3 DAYS LEFT | 上海即兴艺术周大师工作坊早鸟优惠倒计时: ONLY 3 DAYS LEFT | 上海即兴艺术周大师工作坊早鸟优惠倒计时
+        Questioning Contact Improvisation 质疑接触即兴: Questioning Contact Improvisation
+          质疑接触即兴
+        SHCI  工作坊＆舞酱 毛手毛脚往哪摆 Where to put our hands and feet: SHCI  工作坊＆舞酱 毛手毛脚往哪摆
+          Where to put our hands and feet
+        SHCI  接触即兴工作坊 ＋舞酱          落地與滑行 Landing & Slide＋JAM: SHCI  接触即兴工作坊 ＋舞酱          落地與滑行
+          Landing & Slide＋JAM
+        SHCI VINYL JAM 黑胶舞会 | 本周日9/4: SHCI VINYL JAM 黑胶舞会 | 本周日9/4
+        SHCI 三月活动时间表 March Activities: SHCI 三月活动时间表 March Activities
+        SHCI 九月课程 | 新增新人入门系列课程和电影放映: SHCI 九月课程 | 新增新人入门系列课程和电影放映
+        SHCI 二月活动时间表: SHCI 二月活动时间表
+        SHCI 十一月活动 | 常规系列课程＆线上放映读书会: SHCI 十一月活动 | 常规系列课程＆线上放映读书会
+        SHCI 十二月至一月活动安排: SHCI 十二月至一月活动安排
+        SHCI 十月活动 | 即兴艺术节＆常规系列课程＆读书讨论会: SHCI 十月活动 | 即兴艺术节＆常规系列课程＆读书讨论会
+        SHCI 四月线上先相见 Let's meet online: SHCI 四月线上先相见 Let's meet online
+        SHCI 接触与即兴 Contact and Improvisation＋舞酱 Jam    5/07 10am-1pm: SHCI 接触与即兴 Contact
+          and Improvisation＋舞酱 Jam    5/07 10am-1pm
+        SHCI上海接触即兴一月活动时间表: SHCI上海接触即兴一月活动时间表
+        SHCI上海接触即兴主题征文- 害怕接触: SHCI上海接触即兴主题征文- 害怕接触
+        SHCI第一轮获得青年支持的名单(7-9月): SHCI第一轮获得青年支持的名单(7-9月)
+        SHCI第二轮获得青年支持的名单(10-12月): SHCI第二轮获得青年支持的名单(10-12月)
+        The Magic House! 第四届上海即兴艺术节联手神奇插画师Monica Liaw的特别企划: The Magic House! 第四届上海即兴艺术节联手神奇插画师Monica
+          Liaw的特别企划
+        Touch 上海 | 回到“原有支撑”   再现“万有引力”: Touch 上海 | 回到“原有支撑”   再现“万有引力”
+        '[时空身界－具身物理的诗意] 泰国艺术家Ong大理接触即兴工作坊 10月9-11日': '[时空身界－具身物理的诗意] 泰国艺术家Ong大理接触即兴工作坊
+          10月9-11日'
+        ​ SHCI 十一月线上放映＆读书讨论会: ​ SHCI 十一月线上放映＆读书讨论会
+        “与任何人或事物共舞” | 社群联动访谈: “与任何人或事物共舞” | 社群联动访谈
+        「一半的自由」接触即兴一日工作坊: 「一半的自由」接触即兴一日工作坊
+        「变·身」｜2024许程崴接触即兴舞蹈工作坊 ·上海（03.15-17）: 「变·身」｜2024许程崴接触即兴舞蹈工作坊 ·上海（03.15-17）
+        「回归:连接」工作坊回顾: 「回归:连接」工作坊回顾
+        「回归连接 re:connection」寸草国庆工作坊: 「回归连接 re:connection」寸草国庆工作坊
+        「多面身体」｜2024许程崴接触即兴舞蹈工作坊 ·深圳（03.09-10）: 「多面身体」｜2024许程崴接触即兴舞蹈工作坊 ·深圳（03.09-10）
+        「身体版图」许程崴接触即兴上海工作坊: 「身体版图」许程崴接触即兴上海工作坊
+        「飞翔与降落」接触即兴工作坊: 「飞翔与降落」接触即兴工作坊
+        『无动不舞』，古舞團25周年影片放映会: 『无动不舞』，古舞團25周年影片放映会
+        【12月11日新课上线】太极X巴特尼夫身心系列课: 【12月11日新课上线】太极X巴特尼夫身心系列课
+        【新春大吉】2024寸草2月寒假及活动时间表FEB. Activities: 【新春大吉】2024寸草2月寒假及活动时间表FEB. Activities
+        '【早鸟优惠】5月身体训练常规课 : 基础现代舞。周一、周日相互调课方案启动。': '【早鸟优惠】5月身体训练常规课 : 基础现代舞。周一、周日相互调课方案启动。'
+        '【早鸟倒数3天】11月身体训练常规课: 基础现代舞&基础芭蕾 “冬日优惠”': '【早鸟倒数3天】11月身体训练常规课: 基础现代舞&基础芭蕾 “冬日优惠”'
+        【福利】柏林爱乐同款音乐会、名画碰撞古典音乐……9月给娃最生动的艺术与身体启蒙！: 【福利】柏林爱乐同款音乐会、名画碰撞古典音乐……9月给娃最生动的艺术与身体启蒙！
+        一次接触即兴之后的余韵: 一次接触即兴之后的余韵
+        一起深呼吸 开启十一月周末常规课: 一起深呼吸 开启十一月周末常规课
         一起站桩【每日线上练习】开放报名: 一起站桩【每日线上练习】开放报名
+        七月寸草接触即兴活动时间表 July Activities: 七月寸草接触即兴活动时间表 July Activities
+        七月寸草活动时间表 July Activities: 七月寸草活动时间表 July Activities
+        三月周课｜身体活了吗: 三月周课｜身体活了吗
+        三月寸草接触即兴活动时间表 Mar Activities: 三月寸草接触即兴活动时间表 Mar Activities
+        '上海 | 4月身体训练常规课 : 基础现代舞': '上海 | 4月身体训练常规课 : 基础现代舞'
+        '上海 | “旋转、跳跃”舞动吧！十月身体训练系列: 零基础芭蕾': '上海 | “旋转、跳跃”舞动吧！十月身体训练系列: 零基础芭蕾'
+        上海 | 一日混酱: 上海 | 一日混酱
+        上海 | 七月活动时间表 SHCI July Activities ＆当接触即兴遇见巴西战舞视频回顾: 上海 | 七月活动时间表 SHCI July
+          Activities ＆当接触即兴遇见巴西战舞视频回顾
+        上海 | 八月活动时间表 SHCI August Activities: 上海 | 八月活动时间表 SHCI August Activities
+        上海 | 六月活动时间表 SHCI June Activities: 上海 | 六月活动时间表 SHCI June Activities
+        '上海 | 十月身体训练常规课: 从内出发，打开身体动态意识': '上海 | 十月身体训练常规课: 从内出发，打开身体动态意识'
+        上海/十月活动时间表  October activities: 上海/十月活动时间表  October activities
+        上海| 十一月常规活动时间表: 上海| 十一月常规活动时间表
+        上海|《纸想和你在一起》儿童暑期二日营: 上海|《纸想和你在一起》儿童暑期二日营
+        上海│十月身体训练系列：给大人的芭蕾课: 上海│十月身体训练系列：给大人的芭蕾课
+        上海五月接触即兴活动 & 安全飞翔工作坊: 上海五月接触即兴活动 & 安全飞翔工作坊
+        上海即兴艺术盛筵七月: 上海即兴艺术盛筵七月
+        上海即兴艺术节之~ 古名伸＆古舞团接触即兴大师工作坊: 上海即兴艺术节之~ 古名伸＆古舞团接触即兴大师工作坊
+        上海四月接触即兴活动: 上海四月接触即兴活动
+        上海接触即兴i.lab上线: 上海接触即兴i.lab上线
+        上海接触即兴青年支持计划开启招募: 上海接触即兴青年支持计划开启招募
+        上海接触即兴青年支持计划第2期(10-12月)招募: 上海接触即兴青年支持计划第2期(10-12月)招募
+        上海接触即兴青年支持计划第3期(2024年1月-3月)招募: 上海接触即兴青年支持计划第3期(2024年1月-3月)招募
+        上海接触即兴青年支持计划第4期(2024年4月-6月)招募: 上海接触即兴青年支持计划第4期(2024年4月-6月)招募
         上海接触即兴青年支持计划第5期(2024年7月-9月)招募: 上海接触即兴青年支持计划第5期(2024年7月-9月)招募
+        '上海｜11月身体训练常规课: 现代舞&芭蕾 “冬日优惠”': '上海｜11月身体训练常规课: 现代舞&芭蕾 “冬日优惠”'
+        '上海｜12月＆1月身体训练常规课: 基础现代舞&基础芭蕾': '上海｜12月＆1月身体训练常规课: 基础现代舞&基础芭蕾'
+        '上海｜3月身体训练常规课 : 基础现代舞&基础芭蕾': '上海｜3月身体训练常规课 : 基础现代舞&基础芭蕾'
+        上海｜《虎生》儿童舞蹈工作坊＋演出套票: 上海｜《虎生》儿童舞蹈工作坊＋演出套票
+        '上海｜【早鸟倒数三天】1月身体训练常规课: 基础现代舞&基础芭蕾': '上海｜【早鸟倒数三天】1月身体训练常规课: 基础现代舞&基础芭蕾'
+        '上海｜【早鸟倒计时三天】3月身体训练常规课 : 基础现代舞&基础芭蕾': '上海｜【早鸟倒计时三天】3月身体训练常规课 : 基础现代舞&基础芭蕾'
+        上海｜七月活动时间表 SHCI July Activities: 上海｜七月活动时间表 SHCI July Activities
+        上海｜三月活动时间表 SHCI March Activities: 上海｜三月活动时间表 SHCI March Activities
+        上海｜九月活动时间表 SHCI September Activities: 上海｜九月活动时间表 SHCI September Activities
+        '上海｜九月身体训练常规课: 基础现代舞': '上海｜九月身体训练常规课: 基础现代舞'
+        上海｜九月身体训练系列:零基础芭蕾: 上海｜九月身体训练系列:零基础芭蕾
+        上海｜二月活动时间表 SHCI February Activities: 上海｜二月活动时间表 SHCI February Activities
+        上海｜五一戶外野餐舞酱照片回顾 ＆ 五月活动时间表 SHCI May Activities: 上海｜五一戶外野餐舞酱照片回顾 ＆ 五月活动时间表 SHCI
+          May Activities
+        上海｜儿童冬令营『纸想和你在一起』: 上海｜儿童冬令营『纸想和你在一起』
+        上海｜八月接触即兴工作坊「地心引力」: 上海｜八月接触即兴工作坊「地心引力」
+        上海｜八月活动时间表 SHCI August Activities: 上海｜八月活动时间表 SHCI August Activities
+        上海｜八月混酱: 上海｜八月混酱
+        上海｜八月身体训练常规课・零基础芭蕾: 上海｜八月身体训练常规课・零基础芭蕾
+        上海｜六月活动时间表  SHCI June Activities: 上海｜六月活动时间表  SHCI June Activities
+        上海｜十一月活动时间表 SHCI November Activities: 上海｜十一月活动时间表 SHCI November Activities
+        上海｜十二月基础现代舞常规课: 上海｜十二月基础现代舞常规课
+        上海｜十二月活动时间表 SHCI December Activities: 上海｜十二月活动时间表 SHCI December Activities
+        上海｜十月活动时间表 SHCI October Activities: 上海｜十月活动时间表 SHCI October Activities
+        上海｜四月活动时间表 SHCI April Activities: 上海｜四月活动时间表 SHCI April Activities
+        上海｜夏都小镇后街 10月2日，邀你体验即兴舞蹈与静坐冥想: 上海｜夏都小镇后街 10月2日，邀你体验即兴舞蹈与静坐冥想
+        上海｜幼儿创意肢体律动、芭蕾启蒙春季班: 上海｜幼儿创意肢体律动、芭蕾启蒙春季班
+        上海｜让孩子感知变得丰富：创意肢体律动: 上海｜让孩子感知变得丰富：创意肢体律动
+        不说谎的身体 | 亚洲接触即兴舞蹈教母古名伸将携古舞团首次亮相上海: 不说谎的身体 | 亚洲接触即兴舞蹈教母古名伸将携古舞团首次亮相上海
+        与光牵手，2021年第四届上海即兴艺术节在画家街圆满落幕: 与光牵手，2021年第四届上海即兴艺术节在画家街圆满落幕
+        临在-感受当下的力量（下篇：具体方法）: 临在-感受当下的力量（下篇：具体方法）
         为什么把太极和巴特尼芙基本动作放到一起练习？: 为什么把太极和巴特尼芙基本动作放到一起练习？
+        九月上海接触即兴活动 September SH C I Activities: 九月上海接触即兴活动 September SH C I Activities
+        九月寸草接触即兴活动时间表 Sept Activities: 九月寸草接触即兴活动时间表 Sept Activities
+        九月寸草接触即兴活动时间表 September Activities: 九月寸草接触即兴活动时间表 September Activities
+        九月混酱：接触即兴和东方身体智慧: 九月混酱：接触即兴和东方身体智慧
+        二月份活动暂停通知: 二月份活动暂停通知
+        二月寸草接触即兴活动时间表 Feb Activities: 二月寸草接触即兴活动时间表 Feb Activities
+        五月寸草接触即兴活动时间表 May Activities: 五月寸草接触即兴活动时间表 May Activities
+        五月活动时间表 May Activities: 五月活动时间表 May Activities
+        亲子活动 | 感官唤醒，与孩子一起发现身体里的生活美学: 亲子活动 | 感官唤醒，与孩子一起发现身体里的生活美学
+        亲子｜年，当然还没过完，周六一起来闹元宵: 亲子｜年，当然还没过完，周六一起来闹元宵
+        传承，终结，开启——巴特尼芙基本动作探索的路标: 传承，终结，开启——巴特尼芙基本动作探索的路标
         体验身体的合奏｜什么是潜动谱UnderScore: 体验身体的合奏｜什么是潜动谱UnderScore
+        余德耀美术馆舞动工作坊/身体的小宇宙 YUZ Museum workshop/ The universe in our body: 余德耀美术馆舞动工作坊/身体的小宇宙
+          YUZ Museum workshop/ The universe in our body
         作为身心学的太极拳——谈谈为何而练: 作为身心学的太极拳——谈谈为何而练
+        你也想和坂本龙一那样，拓印下属于你自己的声音吗？: 你也想和坂本龙一那样，拓印下属于你自己的声音吗？
+        你的声音呢？ | 即兴音乐工作坊 Impromptu music workshop: 你的声音呢？ | 即兴音乐工作坊 Impromptu music
+          workshop
+        來看｜身体。话: 來看｜身体。话
+        來自芬兰的问候: 來自芬兰的问候
         保持身心的弹性 | 太极X巴特尼芙 身心研习课平日班/周末班同步开启: 保持身心的弹性 | 太极X巴特尼芙 身心研习课平日班/周末班同步开启
+        '俞亚男: “对呀!人首先要愉悦的是你自己。”': '俞亚男: “对呀!人首先要愉悦的是你自己。”'
+        倒计时 | 上海即兴艺术盛筵七月: 倒计时 | 上海即兴艺术盛筵七月
+        倒计时5天 | 第四届上海即兴艺术节青年即兴大汇演演出节目招募: 倒计时5天 | 第四届上海即兴艺术节青年即兴大汇演演出节目招募
+        免费开放 | 2021年第四届上海即兴艺术节国际论坛: 免费开放 | 2021年第四届上海即兴艺术节国际论坛
+        全球潜动谱回顾 Global Underscore Harvest: 全球潜动谱回顾 Global Underscore Harvest
+        全球潜动谱日 Globe Underscore 2019: 全球潜动谱日 Globe Underscore 2019
+        全球潜动谱日活动回顾: 全球潜动谱日活动回顾
+        八月寸草接触即兴活动时间表 Aug Activities: 八月寸草接触即兴活动时间表 Aug Activities
+        八月寸草接触即兴活动时间表 August Activities: 八月寸草接触即兴活动时间表 August Activities
+        八月跳舞要跳过瘾！在哪跳, 跟谁跳, 怎么跳？: 八月跳舞要跳过瘾！在哪跳, 跟谁跳, 怎么跳？
+        六月寸草接触即兴活动时间表 June Activities: 六月寸草接触即兴活动时间表 June Activities
+        六月寸草活动时间表 June Activities: 六月寸草活动时间表 June Activities
         关于: About
+        关于寸草舞集: 关于寸草舞集
+        关于说"不"的思考: 关于说"不"的思考
+        再见了，MR. PAXTON: 再见了，MR. PAXTON
+        分享 │ 我的身体，没有那么笨: 分享 │ 我的身体，没有那么笨
+        分享：“向内•向外” 接触即兴社群联动: 分享：“向内•向外” 接触即兴社群联动
+        分享：在呼与吸之间看见 | 成人身体开发与肢体表达工作坊: 分享：在呼与吸之间看见 | 成人身体开发与肢体表达工作坊
+        分享：诗意的入口、身体的螺旋｜Anjelika接触即兴工作坊@杭州｜社群联动: 分享：诗意的入口、身体的螺旋｜Anjelika接触即兴工作坊@杭州｜社群联动
+        分享｜JAM guidelines + resources 舞酱指南+资源: 分享｜JAM guidelines + resources 舞酱指南+资源
+        分享｜This is the sound of one page turning 这是一页翻过的声音: 分享｜This is the sound of
+          one page turning 这是一页翻过的声音
+        分享｜几个关于失重的想法: 分享｜几个关于失重的想法
+        分享｜如果还未从lockdown的创伤中恢复过来欢迎来跳“接触即兴”: 分享｜如果还未从lockdown的创伤中恢复过来欢迎来跳“接触即兴”
+        分享｜接触即兴是一件需要不断练习的功课: 分享｜接触即兴是一件需要不断练习的功课
+        分享｜镜头里的即兴: 分享｜镜头里的即兴
+        十一月寸草接触即兴活动时间表 Nov Activities: 十一月寸草接触即兴活动时间表 Nov Activities
+        十一月寸草接触即兴活动时间表 November Activities: 十一月寸草接触即兴活动时间表 November Activities
+        十一月暖阳户外舞酱回顾: 十一月暖阳户外舞酱回顾
+        十一月混酱：接触即兴和（后后）后现代舞: 十一月混酱：接触即兴和（后后）后现代舞
+        十二月寸草接触即兴活动时间表 Dec Activities: 十二月寸草接触即兴活动时间表 Dec Activities
+        十二月混酱：新年大大大混酱！舞蹈影像 / 日本CI / 摇摆舞 / 3小时舞酱+现场音乐: 十二月混酱：新年大大大混酱！舞蹈影像 / 日本CI /
+          摇摆舞 / 3小时舞酱+现场音乐
+        十二月至一月常规舞酱: 十二月至一月常规舞酱
+        十月寸草接触即兴活动时间表 Oct. Activities: 十月寸草接触即兴活动时间表 Oct. Activities
+        十月寸草接触即兴活动时间表 Octorber Activities: 十月寸草接触即兴活动时间表 Octorber Activities
+        十月混酱：接触即兴和身心学: 十月混酱：接触即兴和身心学
+        十月跳舞月   上海接触即兴活动: 十月跳舞月   上海接触即兴活动
         单日票及多人优惠 | Beyond Dance 不止跳舞即兴艺术节 即将到来 8/25-31: 单日票及多人优惠 | Beyond Dance 不止跳舞即兴艺术节
           即将到来 8/25-31
+        即兴戏剧 | 演出＆工作坊: 即兴戏剧 | 演出＆工作坊
+        即兴戏剧 | 跟动物学习即兴表演: 即兴戏剧 | 跟动物学习即兴表演
+        即兴舞动身体开发工作坊 | 春天里，找回自己又暖又美的身体: 即兴舞动身体开发工作坊 | 春天里，找回自己又暖又美的身体
+        即兴舞蹈 | 接触即兴潜动谱工作坊Underscore  Workshop: 即兴舞蹈 | 接触即兴潜动谱工作坊Underscore  Workshop
+        双十一 「混乱中的美丽」 接触即兴工作坊: 双十一 「混乱中的美丽」 接触即兴工作坊
         古名伸专访｜接触即兴在台湾的15年: 古名伸专访｜接触即兴在台湾的15年
         古名伸的舞蹈救国论: Gumin Shen's Dance to Save the Nation Theory
+        古舞团 “接触即兴在台湾”: 古舞团 “接触即兴在台湾”
+        古舞团 “接触即兴在台湾”-浓缩版: 古舞团 “接触即兴在台湾”-浓缩版
+        可可爱爱的混酱回忆录～（多图提醒！）: 可可爱爱的混酱回忆录～（多图提醒！）
+        后疫情时代：城市探索与观察 |《我们的城市》2022青少年戏剧夏令营: 后疫情时代：城市探索与观察 |《我们的城市》2022青少年戏剧夏令营
+        周日1933老场坊舞酱                      Sunday 1933 Old Millfun JAM: 周日1933老场坊舞酱                      Sunday
+          1933 Old Millfun JAM
+        周日的舞酱 Sunday Jam: 周日的舞酱 Sunday Jam
+        四月寸草接触即兴活动时间表 April Activities: 四月寸草接触即兴活动时间表 April Activities
         四月潜动谱练习分享｜UnderScore Harvest: 四月潜动谱练习分享｜UnderScore Harvest
+        回顾 | 四月接触即兴大咖工作坊 身体有多美好: 回顾 | 四月接触即兴大咖工作坊 身体有多美好
+        回顾 |《纸想和你在一起》儿童暑期活动: 回顾 |《纸想和你在一起》儿童暑期活动
+        国庆工作坊倒计时：增设单日票和东艺演出赠票福利: 国庆工作坊倒计时：增设单日票和东艺演出赠票福利
+        基础现代舞：“白日梦”该醒了（摇晃）现代舞课春节后继续。: 基础现代舞：“白日梦”该醒了（摇晃）现代舞课春节后继续。
+        增设单日票+上海欢迎舞酱｜2024许程崴接触即兴舞蹈工作坊 ·深圳（3.9-10）+上海（03.15-17）: 增设单日票+上海欢迎舞酱｜2024许程崴接触即兴舞蹈工作坊
+          ·深圳（3.9-10）+上海（03.15-17）
+        大咖艺术家来沪                                  2018接触即兴工作坊: 大咖艺术家来沪                                  2018接触即兴工作坊
+        太极X巴特尼夫身心系列课｜第二期招募: 太极X巴特尼夫身心系列课｜第二期招募
         太极无极桩练习  勇者带领: 太极无极桩练习  勇者带领
+        好文 | 即兴是这个时代的奢侈品: 好文 | 即兴是这个时代的奢侈品
+        好文 | 皮娜·鲍什 PK 崔莎·布朗 —— “为什么动”与“怎么动”的C位之争: 好文 | 皮娜·鲍什 PK 崔莎·布朗 —— “为什么动”与“怎么动”的C位之争
+        好文 | 自由还是限制，这是个问题。: 好文 | 自由还是限制，这是个问题。
+        好文│收获 ~ 一个接触即兴的历史 by Nancy Stark Smith: 好文│收获 ~ 一个接触即兴的历史 by Nancy Stark Smith
+        好文分享  将“不”当作一个答案: 好文分享  将“不”当作一个答案
+        好文分享 | “身心学”：第三人称的自我观察: 好文分享 | “身心学”：第三人称的自我观察
+        好文分享＋回顾 | 游戏的不同层面 Levels of the Game: 好文分享＋回顾 | 游戏的不同层面 Levels of the Game
+        好文分享｜临在-感受当下的力量（上）: 好文分享｜临在-感受当下的力量（上）
+        '如舞如诗,如戏亦如梦 :                         上海Underscore工作坊': '如舞如诗,如戏亦如梦 :                         上海Underscore工作坊'
+        孩子的恶作剧？成人地老天荒的友谊？演出来看！“乔麦”名作《三角形》亲子工作坊: 孩子的恶作剧？成人地老天荒的友谊？演出来看！“乔麦”名作《三角形》亲子工作坊
+        安全的飞翔CI 工作坊回顾，他们说了什么: 安全的飞翔CI 工作坊回顾，他们说了什么
+        寸草9月周日常规舞酱SUNDAY JAM: 寸草9月周日常规舞酱SUNDAY JAM
+        寸草即兴表演呈现：我的202X年: 寸草即兴表演呈现：我的202X年
+        寸草新晖，春衣上新: 寸草新晖，春衣上新
+        寸草舞集 八月系列课程​: 寸草舞集 八月系列课程​
+        寸草舞集11月活动 Inch dance November Activities: 寸草舞集11月活动 Inch dance November Activities
+        寸草舞集12月活动 Inch dance December Activities: 寸草舞集12月活动 Inch dance December Activities
+        寸草舞集三月活动 Inch Dance March Activities: 寸草舞集三月活动 Inch Dance March Activities
+        寸草舞集二月活动 February Activities: 寸草舞集二月活动 February Activities
+        寸草舞集五月活动 Inch Dance May Activities: 寸草舞集五月活动 Inch Dance May Activities
+        寸草舞集四月活动 Inch Dance April Activities: 寸草舞集四月活动 Inch Dance April Activities
         寻找2017年的你: Looking for You in 2017
         寻找合作摄影/摄像师: 寻找合作摄影/摄像师
+        居家亲子肢体活动・第一弹：春天里最特别的花: 居家亲子肢体活动・第一弹：春天里最特别的花
+        居家亲子肢体活动・第二弹：敲敲打打真快乐: 居家亲子肢体活动・第二弹：敲敲打打真快乐
         工作坊: Workshops
+        工具的身体与交流的身体——两种社群下的接触即兴: 工具的身体与交流的身体——两种社群下的接触即兴
+        归来｜OTTO  AKKANEN 接触即兴工作坊: 归来｜OTTO  AKKANEN 接触即兴工作坊
+        当接触即兴遇见巴西战舞| 6.26-6.27工作坊+舞酱: 当接触即兴遇见巴西战舞| 6.26-6.27工作坊+舞酱
+        征集|2021接触即兴中[印象深刻的瞬间]: 征集|2021接触即兴中[印象深刻的瞬间]
+        很遗憾的通知大家：我们要涨价了……: 很遗憾的通知大家：我们要涨价了……
+        我们需要什么样的接触即兴？——Ong访谈片段: 我们需要什么样的接触即兴？——Ong访谈片段
+        我和我自己的对话 三部曲｜               Be along with myself: 我和我自己的对话 三部曲｜               Be
+          along with myself
+        我和接触即兴的日子: 我和接触即兴的日子
+        报名| 2018「艺术天空」12小时特别活动: 报名| 2018「艺术天空」12小时特别活动
+        报名|寸草舞集六月活动  舞!舞!舞！: 报名|寸草舞集六月活动  舞!舞!舞！
+        报名开启｜凌云焰身体场域创作研修班（上海）2024年2月17日抵临: 报名开启｜凌云焰身体场域创作研修班（上海）2024年2月17日抵临
+        报名｜OTTO AKKANEN一人独处的感觉工作坊延伸版: 报名｜OTTO AKKANEN一人独处的感觉工作坊延伸版
+        报名｜三月接触即兴密集工作坊 One Sense Alone Contact Improvisation Workshop: 报名｜三月接触即兴密集工作坊
+          One Sense Alone Contact Improvisation Workshop
+        报名｜巴特尼芙基本动作探索. 公开课＆系列课程: 报名｜巴特尼芙基本动作探索. 公开课＆系列课程
+        报名｜巴特尼芙基本动作探索.正式课程: 报名｜巴特尼芙基本动作探索.正式课程
+        报名｜巴特尼芙基本动作探索.系列课程: 报名｜巴特尼芙基本动作探索.系列课程
+        报名｜气音相形、音愈静观工作坊: 报名｜气音相形、音愈静观工作坊
+        报名｜运动探索工作坊 Movement Exploration Workshop: 报名｜运动探索工作坊 Movement Exploration
+          Workshop
+        招募 ｜ 上海接触即兴社区 ｜ 视频制作 & 设计志愿者: 招募 ｜ 上海接触即兴社区 ｜ 视频制作 & 设计志愿者
+        接触即兴「全接触」工作坊: 接触即兴「全接触」工作坊
+        接触即兴中的即兴: 接触即兴中的即兴
+        接触即兴后，他们想说…【附SHCI 12月常规活动】: 接触即兴后，他们想说…【附SHCI 12月常规活动】
         接触即兴工作坊和舞酱                   Control & Let go: 接触即兴工作坊和舞酱                   Control
           & Let go
         接触即兴指南: Contact Improvisation Guide
+        接触即兴，它到底是什么？  I (连载): 接触即兴，它到底是什么？  I (连载)
+        接触即兴，它到底是什么？ II (连载): 接触即兴，它到底是什么？ II (连载)
+        接触即兴，它到底是什么？ III (完): 接触即兴，它到底是什么？ III (完)
+        推荐 | 《绝妙的冒险》 第三届上海即兴艺术节剧院专场演出: 推荐 | 《绝妙的冒险》 第三届上海即兴艺术节剧院专场演出
+        推荐｜ 台湾骉舞剧场 《自由步》: 推荐｜ 台湾骉舞剧场 《自由步》
+        推荐｜“口袋三原色”——身体的调色盘: 推荐｜“口袋三原色”——身体的调色盘
+        推荐｜《Why?》来看六名舞者的回答: 推荐｜《Why?》来看六名舞者的回答
+        推荐｜丢掉一切理所当然，重新开始把玩世界: 推荐｜丢掉一切理所当然，重新开始把玩世界
+        放映 | 古舞團紀錄片 『无动不舞』: 放映 | 古舞團紀錄片 『无动不舞』
+        新年开工犒赏自己一对新袜子吧！: 新年开工犒赏自己一对新袜子吧！
+        新年新混酱： SHCI一日联欢: 新年新混酱： SHCI一日联欢
         无限的身体可能 许程崴深圳+上海 双城工作坊回顾: 无限的身体可能 许程崴深圳+上海 双城工作坊回顾
+        早鸟最后一天！「回归连接 re:connection」寸草国庆工作坊: 早鸟最后一天！「回归连接 re:connection」寸草国庆工作坊
+        春暖花开，身体动起来！: 春暖花开，身体动起来！
+        最深邃的，是表面的皮肤——一次关于接触即兴的写作: 最深邃的，是表面的皮肤——一次关于接触即兴的写作
         最近活动: Recent Events
+        有关接触即兴舞酱中性边界和性同意的建议和声明: 有关接触即兴舞酱中性边界和性同意的建议和声明
+        本周日| 如果你听说过雅克勒考克...身体与面具初阶工作坊@上海: 本周日| 如果你听说过雅克勒考克...身体与面具初阶工作坊@上海
+        李铁桥：即兴是拥抱自由的最佳途径: 李铁桥：即兴是拥抱自由的最佳途径
+        来来来「元旦轻松小聚啦」舞酱+旧物交换+吃吃喝喝: 来来来「元旦轻松小聚啦」舞酱+旧物交换+吃吃喝喝
         来自生活中的灵光乍现: 来自生活中的灵光乍现
+        来！今晚线上公益课: 来！今晚线上公益课
+        正式来袭 | 2021年第四届上海即兴艺术节全阵容披露: 正式来袭 | 2021年第四届上海即兴艺术节全阵容披露
+        水＊人＊环境的对话＠乌镇: 水＊人＊环境的对话＠乌镇
+        活动分享| 2023TOWARDS接触即兴51周年泰国大集会之古名伸工作坊: 活动分享| 2023TOWARDS接触即兴51周年泰国大集会之古名伸工作坊
         活动存档: Archives
+        活动～本周四公益舞酱: 活动～本周四公益舞酱
+        演出大爆炸：创作、身体、脑洞和东方密码: 演出大爆炸：创作、身体、脑洞和东方密码
+        灵魂操控师 | 当代偶戏暨物品表演工作坊: 灵魂操控师 | 当代偶戏暨物品表演工作坊
+        炎夏舞动，加开一班｜上海・七月基础现代舞常规课: 炎夏舞动，加开一班｜上海・七月基础现代舞常规课
+        炎热的季节 我们依旧相约起舞，流汗撒欢！: 炎热的季节 我们依旧相约起舞，流汗撒欢！
+        爱玩儿又挑剔？打开13位艺术届大咖的即兴新玩法: 爱玩儿又挑剔？打开13位艺术届大咖的即兴新玩法
+        牛尾Recall接触即兴的特别一刻: 牛尾Recall接触即兴的特别一刻
+        生活即剧场，舞蹈走进人群: 生活即剧场，舞蹈走进人群
+        盛夏的邀约 / 身体与意识 Body&Mind: 盛夏的邀约 / 身体与意识 Body&Mind
+        福利|现代舞蹈中神奇的发明—骉舞剧场《自由步》10年编舞计划: 福利|现代舞蹈中神奇的发明—骉舞剧场《自由步》10年编舞计划
+        福利｜新媒体表演《分身·源启》开放彩排: 福利｜新媒体表演《分身·源启》开放彩排
+        笔记 / 给身体放个假，你能做到吗？: 笔记 / 给身体放个假，你能做到吗？
+        笔记/ 给身体放个假，你能做到吗?  续篇: 笔记/ 给身体放个假，你能做到吗?  续篇
+        第一期身体盲盒Body Blind Box首秀揭盲: 第一期身体盲盒Body Blind Box首秀揭盲
+        第三届上海即兴艺术节 | 年度最可期的艺术家阵容，寸草专属优惠！: 第三届上海即兴艺术节 | 年度最可期的艺术家阵容，寸草专属优惠！
+        第三期SHCI青年支持计划的名单(2024.01--03月): 第三期SHCI青年支持计划的名单(2024.01--03月)
         第五期SHCI青年支持计划的名单(2024.07--09月): 第五期SHCI青年支持计划的名单(2024.07--09月)
+        第四届上海即兴艺术节正式开幕 | 想改变吗？来试试！: 第四届上海即兴艺术节正式开幕 | 想改变吗？来试试！
         第四期SHCI青年支持计划的名单(2024.04--06月): 第四期SHCI青年支持计划的名单(2024.04--06月)
         精选文章: Articles
+        线上 ｜ 第一次的读书讨论会 “接触即兴是什么？”: 线上 ｜ 第一次的读书讨论会 “接触即兴是什么？”
+        线上| 跟着Abby、Ming-Lung走进「放松技术」的世界！: 线上| 跟着Abby、Ming-Lung走进「放松技术」的世界！
+        线上|【MaiOui暑期名师营】七月回顾: 线上|【MaiOui暑期名师营】七月回顾
+        线上周课：2021秋季学期身心即兴: 线上周课：2021秋季学期身心即兴
+        线上｜ 关于音乐/舞蹈的困惑,这儿一并给你解答！: 线上｜ 关于音乐/舞蹈的困惑,这儿一并给你解答！
+        线上｜2021每遇舞蹈暑期“七上八下”名师营！: 线上｜2021每遇舞蹈暑期“七上八下”名师营！
+        线上｜身心「共振」，自我愉悦的指南针。: 线上｜身心「共振」，自我愉悦的指南针。
+        给孩子们的创意肢体及芭蕾启蒙: 给孩子们的创意肢体及芭蕾启蒙
+        给孩子的春季常规课程: 给孩子的春季常规课程
+        给自己拥抱现代舞的机会｜上海・七月基础现代舞常规课: 给自己拥抱现代舞的机会｜上海・七月基础现代舞常规课
+        肢体＋戏剧 充满创意的儿童暑期营！: 肢体＋戏剧 充满创意的儿童暑期营！
+        自然身体之诗|露营接触即兴工作坊·成都: 自然身体之诗|露营接触即兴工作坊·成都
+        舞启2019 | “舞蹈火锅”的美味邀约: Dancestart 2019 | A delicious invitation of “dancing
+          hotpot”
+        舞启2019 |寸草舞集1月活动 Inch dance January Activities: 舞启2019 |寸草舞集1月活动 Inch dance
+          January Activities
+        舞启2019 ：美术馆之夜，舞酱Party，一起跳舞跨年！: 舞启2019 ：美术馆之夜，舞酱Party，一起跳舞跨年！
         艺术节: Festivals
         艺术节导师介绍一：「我是一个跳舞的人」——古名伸: 艺术节导师介绍一：「我是一个跳舞的人」——古名伸
         艺术节导师介绍三：即兴是一种舞蹈哲学——Chico 和 Shoko: 艺术节导师介绍三：即兴是一种舞蹈哲学——Chico 和 Shoko
         艺术节导师介绍二：共舞四十年——马才和 严明然: 艺术节导师介绍二：共舞四十年——马才和 严明然
+        身体、影像、科技的极尽探索｜2021年第四届上海即兴艺术节国际论坛: 身体、影像、科技的极尽探索｜2021年第四届上海即兴艺术节国际论坛
+        身体的复苏＆Underscore练习: 身体的复苏＆Underscore练习
+        身心排列：梁嘉能专场公益直播（8/10、8/16）: 身心排列：梁嘉能专场公益直播（8/10、8/16）
+        身心系列课程 | 太极 x 巴特尼芙基本动作【新课特惠】: 身心系列课程 | 太极 x 巴特尼芙基本动作【新课特惠】
+        这一天，那些事  The day we are there｜ 亚洲最强即兴舞团演出开售: 这一天，那些事  The day we are there｜
+          亚洲最强即兴舞团演出开售
+        这个夏天，我们一起跳舞吧| 寸草舞集六月活动 Inch Dance June Activities: 这个夏天，我们一起跳舞吧| 寸草舞集六月活动
+          Inch Dance June Activities
+        这些综艺节目竟然藏着这么多的宝藏音乐？: 这些综艺节目竟然藏着这么多的宝藏音乐？
+        送狗迎猪 回顾与展望＆二月活动时间: 送狗迎猪 回顾与展望＆二月活动时间
+        邀请你看 | 寸草 x 彭涨作品 《蛮好 Most of the time is Boring》上纽大ICA: 邀请你看 | 寸草 x 彭涨作品 《蛮好
+          Most of the time is Boring》上纽大ICA
+        邀请身体来听一场音乐会 | 「仙女木预言」+CI主题舞酱: 邀请身体来听一场音乐会 | 「仙女木预言」+CI主题舞酱
+        那些即兴教我的事 | 2019年第三届上海即兴艺术节圆桌论坛精华回顾（一）: 那些即兴教我的事 | 2019年第三届上海即兴艺术节圆桌论坛精华回顾（一）
+        那些即将到来的即兴演出: 那些即将到来的即兴演出
         重磅启程！Beyond Dance「不止跳舞」艺术节超早鸟揭幕: 重磅启程！Beyond Dance「不止跳舞」艺术节超早鸟揭幕
         需要你！上海CI社群的守护天使们: 需要你！上海CI社群的守护天使们
+        青山绿水风的呢喃: 青山绿水风的呢喃
+        预告| 这一天，那些事——五位舞者现身说法的即兴旅程: 预告| 这一天，那些事——五位舞者现身说法的即兴旅程
         首页: Home
+        麦哲伦环球航海历险记 | 上海2020儿童戏剧舞蹈冬令营: 麦哲伦环球航海历险记 | 上海2020儿童戏剧舞蹈冬令营
       site_name: Inch Dance
     reconfigure_material: true
     reconfigure_search: true
