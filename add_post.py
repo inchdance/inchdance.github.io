@@ -175,9 +175,9 @@ def main(data_block, translate_only=None):
 
 if __name__ == "__main__":
     data_json = {
-        "src_post": "https://mp.weixin.qq.com/s/U3ygRpMU6KX_wbbvmABRXA",
-        "date": "20240820",
-        "short_tag": "about_ci",
-        "folder": "about"
+        "src_post": "https://mp.weixin.qq.com/s?__biz=MzIwNTg0NTA1OQ%3D%3D&mid=2247484524&idx=1&sn=c58c2a8badd1da1982870d87071b706e&scene=45#wechat_redirect",
+        "date": "20190725",
+        "short_tag": "gu_dance_save_nation",
+        "folder": "articles"
     }
     main(data_json, translate_only=False)
