@@ -3,13 +3,50 @@ nav:
 - 艺术节:
   - 寻找2017年的你: zh/festivals/20240821.find_2017_you.md
   - Beyond Dance艺术节预告二：互动装置展+丸仔十分舞聊+奇妙艺术摊位: zh/festivals/20240820.beyond_dance_activity_2.md
+  - Beyond Dance 不止跳舞即兴艺术节 导师阵容及工作坊信息详解: zh/festivals/20240718.beyond_dance_intro.md
+  - 需要你！上海CI社群的守护天使们: zh/festivals/20240718.shanghai_household.md
+  - 单日票及多人优惠 | Beyond Dance 不止跳舞即兴艺术节 即将到来 8/25-31: zh/festivals/20240718.beyond_dance_singleday_ticket.md
+  - Beyond Dance不止跳舞即兴艺术节 场地揭秘: zh/festivals/20240630.beyond_dance_venue.md
+  - 艺术节导师介绍一：「我是一个跳舞的人」——古名伸: zh/festivals/20240630.main_artiest_gu_ming_shen.md
+  - 艺术节导师介绍三：即兴是一种舞蹈哲学——Chico 和 Shoko: zh/festivals/20240630.main_artiest_chico_shoko.md
+  - 艺术节导师介绍二：共舞四十年——马才和 严明然: zh/festivals/20240630.main_artiest_victor_mandy.md
+  - Beyond Dance 不止跳舞即兴艺术节 第二波阵容: zh/festivals/20240626.beyond_dance_supporting_artist.md
+  - Beyond Dance「不止跳舞」即兴艺术节 导师及支持艺术家介绍: zh/festivals/20240607.beyond_dance_mentor_intro.md
+  - Beyond Dance 「不止跳舞」即兴艺术节 第一波阵容发布 （超早鸟倒计时3天）: zh/festivals/20240607.beyond_dance_Impro_festival_earlybird.md
+  - 重磅启程！Beyond Dance「不止跳舞」艺术节超早鸟揭幕: zh/festivals/20240525.beyond_dance_start.md
 - 精选文章:
-  - Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: zh/articles/20240821.zoe_talk_review.md
+  - 体验身体的合奏｜什么是潜动谱UnderScore: zh/articles/20240620.what_is_underscore.md
+  - 古名伸专访｜接触即兴在台湾的15年: zh/articles/20240606.gu_interview_ci_in_taiwan_15_years.md
+  - 为什么把太极和巴特尼芙基本动作放到一起练习？: zh/articles/20240506.why_taichi_and_bartenieff.md
+  - 四月潜动谱练习分享｜UnderScore Harvest: zh/articles/20240430.underscore_harvest.md
+  - 作为身心学的太极拳——谈谈为何而练: zh/articles/20240330.taichi_as_mind_body_tech.md
+  - Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: zh/articles/20230923.zoe_talk_review.md
   - 古名伸的舞蹈救国论: zh/articles/20190725.gu_dance_save_nation.md
-- 工作坊: []
+- 工作坊:
+  - 7.30/31 当即兴遇上接触即兴——Luc Jacobs即兴特训班: zh/workshops/20240626.luc_workshop.md
+  - 无限的身体可能 许程崴深圳+上海 双城工作坊回顾: zh/workshops/20240331.xu_shanghai_shenzhen_workshop_review.md
 - 关于:
   - 接触即兴指南: zh/about/20240820.about_ci.md
-- 活动存档: []
+- 活动存档:
+  - '2024':
+    - 2024 八月寸草接触即兴活动时间表 Aug Activities: zh/archive/20240726.aug_activities.md
+    - 第五期SHCI青年支持计划的名单(2024.07--09月): zh/archive/20240626.5th_youth_support_namelist.md
+    - 2024 七月寸草接触即兴活动时间表 JUL Activities: zh/archive/20240626.jul_activities.md
+    - 6月23日 2024全球潜动谱上海站 Global Underscore in ShangHai: zh/archive/20240620.0623_global_underscore_in_shanghai.md
+    - 6月14日（周五） 「無動不舞」放映会: zh/archive/20240612.gu_film.md
+    - 2024 六月寸草接触即兴活动时间表 JUN Activities: zh/archive/20240527.jun_activities.md
+    - 上海接触即兴青年支持计划第5期(2024年7月-9月)招募: zh/archive/20240527.5th_youth_support_recruit.md
+    - 太极无极桩练习  勇者带领: zh/archive/20240506.taichi_practise.md
+    - 2024 五月寸草接触即兴活动时间表 May Activities: zh/archive/20240430.may_activities.md
+    - 寻找合作摄影/摄像师: zh/archive/20240418.looking_for_photographer_videographer.md
+    - 4月【身体盲盒】巴西战舞：一半是舞蹈，一半是格斗: zh/archive/20240412.april_blindbox_capoeira.md
+    - 一起站桩【每日线上练习】开放报名: zh/archive/20240331.daily_stand.md
+    - 2024 四月寸草接触即兴活动时间表 April Activities: zh/archive/20240330.april_activities.md
+    - 第四期SHCI青年支持计划的名单(2024.04--06月): zh/archive/20240330.4th_youth_support_namelist.md
+    - 保持身心的弹性 | 太极X巴特尼芙 身心研习课平日班/周末班同步开启: zh/archive/20240325.taichi_bartenieff_class.md
+  - '2017':
+    - 来自生活中的灵光乍现: zh/archive/20170319.children_workshop.md
+    - 接触即兴工作坊和舞酱                   Control & Let go: zh/archive/20170312.workshop_and_jam.md
 plugins:
 - search
 - i18n:
@@ -21,20 +58,58 @@ plugins:
     - locale: en
       name: English
       nav_translations:
+        2024 七月寸草接触即兴活动时间表 JUL Activities: 2024 七月寸草接触即兴活动时间表 JUL Activities
+        2024 五月寸草接触即兴活动时间表 May Activities: 2024 五月寸草接触即兴活动时间表 May Activities
+        2024 八月寸草接触即兴活动时间表 Aug Activities: 2024 八月寸草接触即兴活动时间表 Aug Activities
+        2024 六月寸草接触即兴活动时间表 JUN Activities: 2024 六月寸草接触即兴活动时间表 JUN Activities
+        2024 四月寸草接触即兴活动时间表 April Activities: 2024 四月寸草接触即兴活动时间表 April Activities
+        4月【身体盲盒】巴西战舞：一半是舞蹈，一半是格斗: 4月【身体盲盒】巴西战舞：一半是舞蹈，一半是格斗
+        6月14日（周五） 「無動不舞」放映会: 6月14日（周五） 「無動不舞」放映会
+        6月23日 2024全球潜动谱上海站 Global Underscore in ShangHai: 6月23日 2024全球潜动谱上海站 Global
+          Underscore in ShangHai
+        7.30/31 当即兴遇上接触即兴——Luc Jacobs即兴特训班: 7.30/31 当即兴遇上接触即兴——Luc Jacobs即兴特训班
+        Beyond Dance 「不止跳舞」即兴艺术节 第一波阵容发布 （超早鸟倒计时3天）: Beyond Dance Impro Festival Early
+          Release
+        Beyond Dance 不止跳舞即兴艺术节 导师阵容及工作坊信息详解: 「Beyond Dance」Improv Festival Intro
+        Beyond Dance 不止跳舞即兴艺术节 第二波阵容: Beyond Dance 不止跳舞即兴艺术节 第二波阵容
+        Beyond Dance「不止跳舞」即兴艺术节 导师及支持艺术家介绍: Beyond Dance「不止跳舞」即兴艺术节 导师及支持艺术家介绍
+        Beyond Dance不止跳舞即兴艺术节 场地揭秘: Beyond Dance不止跳舞即兴艺术节 场地揭秘
         Beyond Dance艺术节预告二：互动装置展+丸仔十分舞聊+奇妙艺术摊位: 'Beyond Dance Festival Trailer II:
           Interactive Installation Exhibition + Maru''s Ten Minutes Dance Chat + Fantastic
           Art Booth'
-        Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: Dancing with Myself When the Body
-          Becomes a River - Interview Review with Zoe(Zheng Yuchian)
+        Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾: Dancing with Myself 当身体成为河流——郑聿倩Zoe访谈回顾
+        一起站桩【每日线上练习】开放报名: 一起站桩【每日线上练习】开放报名
+        上海接触即兴青年支持计划第5期(2024年7月-9月)招募: 上海接触即兴青年支持计划第5期(2024年7月-9月)招募
+        为什么把太极和巴特尼芙基本动作放到一起练习？: 为什么把太极和巴特尼芙基本动作放到一起练习？
+        体验身体的合奏｜什么是潜动谱UnderScore: 体验身体的合奏｜什么是潜动谱UnderScore
+        作为身心学的太极拳——谈谈为何而练: 作为身心学的太极拳——谈谈为何而练
+        保持身心的弹性 | 太极X巴特尼芙 身心研习课平日班/周末班同步开启: 保持身心的弹性 | 太极X巴特尼芙 身心研习课平日班/周末班同步开启
         关于: About
+        单日票及多人优惠 | Beyond Dance 不止跳舞即兴艺术节 即将到来 8/25-31: 单日票及多人优惠 | Beyond Dance 不止跳舞即兴艺术节
+          即将到来 8/25-31
+        古名伸专访｜接触即兴在台湾的15年: 古名伸专访｜接触即兴在台湾的15年
         古名伸的舞蹈救国论: Gumin Shen's Dance to Save the Nation Theory
+        四月潜动谱练习分享｜UnderScore Harvest: 四月潜动谱练习分享｜UnderScore Harvest
+        太极无极桩练习  勇者带领: 太极无极桩练习  勇者带领
         寻找2017年的你: Looking for You in 2017
+        寻找合作摄影/摄像师: 寻找合作摄影/摄像师
         工作坊: Workshops
+        接触即兴工作坊和舞酱                   Control & Let go: 接触即兴工作坊和舞酱                   Control
+          & Let go
         接触即兴指南: Contact Improvisation Guide
+        无限的身体可能 许程崴深圳+上海 双城工作坊回顾: 无限的身体可能 许程崴深圳+上海 双城工作坊回顾
         最近活动: Recent Events
+        来自生活中的灵光乍现: 来自生活中的灵光乍现
         活动存档: Archives
+        第五期SHCI青年支持计划的名单(2024.07--09月): 第五期SHCI青年支持计划的名单(2024.07--09月)
+        第四期SHCI青年支持计划的名单(2024.04--06月): 第四期SHCI青年支持计划的名单(2024.04--06月)
         精选文章: Articles
         艺术节: Festivals
+        艺术节导师介绍一：「我是一个跳舞的人」——古名伸: 艺术节导师介绍一：「我是一个跳舞的人」——古名伸
+        艺术节导师介绍三：即兴是一种舞蹈哲学——Chico 和 Shoko: 艺术节导师介绍三：即兴是一种舞蹈哲学——Chico 和 Shoko
+        艺术节导师介绍二：共舞四十年——马才和 严明然: 艺术节导师介绍二：共舞四十年——马才和 严明然
+        重磅启程！Beyond Dance「不止跳舞」艺术节超早鸟揭幕: 重磅启程！Beyond Dance「不止跳舞」艺术节超早鸟揭幕
+        需要你！上海CI社群的守护天使们: 需要你！上海CI社群的守护天使们
         首页: Home
       site_name: Inch Dance
     reconfigure_material: true

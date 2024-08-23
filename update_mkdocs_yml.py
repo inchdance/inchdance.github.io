@@ -69,7 +69,6 @@ def update_mkdocs_yml():
                     'date': date,
                     'folder': folder
                 })
-                nav_translations[title] = en_title
 
     # 按日期排序所有文章
     all_articles.sort(key=lambda x: x['date'], reverse=True)
@@ -77,9 +76,6 @@ def update_mkdocs_yml():
     # 更新 mkdocs.yml
     with open('mkdocs.yml', 'r', encoding='utf-8') as file:
         mkdocs_config = yaml.safe_load(file)
-
-    # 更新 nav_translations
-    mkdocs_config['plugins'][1]['i18n']['languages'][1]['nav_translations'].update(nav_translations)
 
     # 更新 nav，保持顶层顺序不变
     nav = mkdocs_config['nav']
@@ -91,10 +87,30 @@ def update_mkdocs_yml():
             if nav_key in folder_nav_mapping.values():
                 folder = next(k for k, v in folder_nav_mapping.items() if v == nav_key)
                 folder_articles = [a for a in all_articles if a['folder'] == folder]
+
                 if nav_key == '活动存档':
-                    item[nav_key] = organize_archive_by_year(folder_articles)
+                    new_items = organize_archive_by_year(folder_articles)
                 else:
-                    item[nav_key] = organize_articles(folder_articles)
+                    new_items = organize_articles(folder_articles)
+
+                # 保留已存在的项目，添加新项目
+                existing_items = item[nav_key] if isinstance(item[nav_key], list) else []
+                existing_paths = [list(i.values())[0] if isinstance(i, dict) else i for i in existing_items]
+
+                for new_item in new_items:
+                    new_path = list(new_item.values())[0] if isinstance(new_item, dict) else new_item
+                    if new_path not in existing_paths:
+                        existing_items.append(new_item)
+                        # 更新翻译
+                        for article in folder_articles:
+                            if article['path'].replace('docs/', '') == new_path:
+                                nav_translations[article['title']] = article['en_title']
+                                break
+
+                item[nav_key] = existing_items
+
+    # 更新 nav_translations
+    mkdocs_config['plugins'][1]['i18n']['languages'][1]['nav_translations'].update(nav_translations)
 
     # 写回 mkdocs.yml
     with open('mkdocs.yml', 'w', encoding='utf-8') as file:

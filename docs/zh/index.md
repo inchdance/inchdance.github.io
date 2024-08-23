@@ -1,0 +1,1161 @@
+---
+hide:
+  - navigation
+---
+
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   2024 八月寸草接触即兴活动时间表 Aug Activities
+  </title>
+ </head>
+ <body>
+  <div class="rich_media_wrp" id="img-content">
+   <h1 class="rich_media_title">
+    2024 八月寸草接触即兴活动时间表 Aug Activities
+   </h1>
+   <div class="rich_media_content js_underline_content defaultNoSetting" id="js_content" style=" ">
+    <section style="font-size: 16px;">
+     <section style="text-align: center;justify-content: center;margin: 10px 0%;transform: translate3d(50px, 0px, 0px);display: flex;flex-flow: row nowrap;">
+      <section style="display: inline-block;vertical-align: top;width: auto;min-width: 10%;flex: 0 0 auto;height: auto;align-self: flex-start;">
+       <section style="text-align: justify;">
+        <p style="white-space: normal;">
+         <br/>
+        </p>
+       </section>
+       <section style="text-align: justify;">
+        <p style="white-space: normal;">
+         <br/>
+        </p>
+       </section>
+       <section style="margin-right: 0%;margin-left: 0%;text-align: left;transform: translate3d(-15px, 0px, 0px);">
+        <section style="font-size: 36px;color: rgb(246, 70, 33);line-height: 1;">
+         <p style="text-align: center;">
+          八月活动
+         </p>
+        </section>
+       </section>
+      </section>
+      <section style="display: inline-block;vertical-align: top;width: auto;min-width: 10%;flex: 0 0 auto;height: auto;margin-left: 6px;align-self: flex-start;">
+       <section style="transform: rotateZ(90deg) scale(1.01);transform-origin: left top;">
+        <section style="margin-right: 0%;margin-left: 0%;text-align: right;transform: translate3d(30px, 0px, 0px);">
+         <section style="color: rgb(26, 120, 186);text-align: justify;line-height: 1;">
+          <p style="white-space: normal;">
+           AUGUST
+          </p>
+          <p style="white-space: normal;">
+           PLAN
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009138" data-ratio="1.413888888888889" data-s="300,640" data-type="jpeg" data-w="1080" src="/assets/images/a212a80760.jpg" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="color: rgb(153, 216, 222);line-height: 1.1;padding-right: 15px;padding-left: 15px;">
+      <p style="text-align: left;white-space: normal;">
+       <em>
+        <strong>
+         <span style="font-family: PingFangTC-ultralight;color: rgb(246, 70, 33);font-size: 32px;">
+          Beyond
+         </span>
+        </strong>
+       </em>
+       <em>
+        <strong>
+         <span style="font-family: PingFangTC-ultralight;color: rgb(246, 70, 33);font-size: 32px;">
+          Dance
+         </span>
+        </strong>
+        <span style="font-size: 28px;">
+         <span style="font-family: PingFangTC-ultralight;">
+         </span>
+        </span>
+       </em>
+      </p>
+      <p style="text-align: right;white-space: normal;">
+       <span style="font-size: 28px;font-family: PingFangSC-ultralight;">
+        <span style="font-size: 36px;color: rgb(26, 120, 186);">
+         不止跳舞
+        </span>
+        <span style="font-size: 36px;">
+        </span>
+        <span style="font-size: 36px;color: rgb(34, 31, 31);">
+         即兴艺术节
+        </span>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <section style="line-height: 2;padding-right: 20px;padding-left: 20px;">
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 24px;font-family: PingFangSC-ultralight;">
+        8月25日开启
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 18px;font-family: PingFangSC-ultralight;">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-family: PingFangSC-ultralight;">
+        <span style="font-family: PingFangTC-ultralight;font-size: 18px;">
+         8场
+        </span>
+        <strong>
+         <span style="font-family: PingFangTC-ultralight;color: rgb(246, 70, 33);font-size: 20px;">
+          主题工作坊
+         </span>
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-family: PingFangSC-ultralight;">
+        <span style="font-family: PingFangTC-ultralight;font-size: 18px;">
+         5日
+        </span>
+        <strong>
+         <span style="font-family: PingFangTC-ultralight;color: rgb(26, 120, 186);font-size: 22px;">
+          密集国际导师工作坊
+         </span>
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-family: PingFangSC-ultralight;">
+        <span style="font-family: PingFangTC-ultralight;font-size: 18px;">
+         2场
+        </span>
+        <strong>
+         <span style="font-family: PingFangTC-ultralight;color: rgb(246, 70, 33);font-size: 18px;">
+          即兴汇演
+         </span>
+        </strong>
+        <span style="font-family: PingFangTC-ultralight;color: rgb(246, 70, 33);font-size: 18px;">
+        </span>
+        +
+        <span style="font-family: PingFangTC-ultralight;font-size: 18px;">
+         2场
+        </span>
+        <span style="font-family: PingFangTC-ultralight;color: rgb(250, 224, 51);">
+         <strong>
+          <span style="font-size: 18px;">
+           舞酱
+          </span>
+         </strong>
+        </span>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-family: PingFangSC-ultralight;">
+        <span style="font-family: PingFangTC-ultralight;font-size: 18px;color: rgb(250, 224, 51);">
+         <strong>
+          圆桌论坛
+         </strong>
+        </span>
+        <span style="font-family: PingFangTC-ultralight;color: rgb(246, 70, 33);font-size: 20px;">
+        </span>
+        +
+        <span style="font-family: PingFangTC-ultralight;font-size: 18px;">
+         <strong>
+          <span style="color: rgb(26, 120, 186);">
+           亚洲即兴舞蹈艺术展
+          </span>
+         </strong>
+        </span>
+       </span>
+      </p>
+     </section>
+     <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009137" data-ratio="0.9333333333333333" data-s="300,640" data-type="jpeg" data-w="1080" src="/assets/images/026367e582.jpg" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="text-align: center;">
+      <section style="display: inline-block;">
+       <span style="color: rgb(47, 118, 195);">
+        <span style="font-weight: bold;">
+         <section style="display: inline-block;vertical-align: middle;">
+          <section style="width: 0px;transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(26, 120, 186);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;">
+           <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+           </svg>
+          </section>
+          <section style="width: 0px;border-right: 0.56em solid rgb(246, 70, 33);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;">
+           <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+           </svg>
+          </section>
+         </section>
+         <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;">
+          <p>
+           报名继续开放中 详情点击下图
+          </p>
+         </section>
+        </span>
+       </span>
+       <section style="display: inline-block;vertical-align: middle;">
+        <section style="width: 0px;transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(26, 120, 186);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;">
+         <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+         </svg>
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(246, 70, 33);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;">
+         <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+         </svg>
+        </section>
+       </section>
+      </section>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="text-align: center;margin-bottom: 10px;line-height: 0;margin-top: 16px;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;">
+       <a data-itemshowtype="0" data-linktype="1" href="http://mp.weixin.qq.com/s?__biz=Mzg5ODgyODc2Ng==&amp;mid=2247492782&amp;idx=1&amp;sn=837ec69cc6cc87f87b04ee62fbbaa5b9&amp;chksm=c05e341ff729bd090160f265724661d27320bd2b49316cc623379b6d1567bfd379b0a5defff9&amp;scene=21#wechat_redirect" imgdata="null" imgurl="" linktype="text" tab="innerlink" target="_blank" textvalue="你已选中了添加链接的内容">
+        <span class="js_jump_icon h5_image_link">
+         <img class="rich_pages wxw-img" data-imgfileid="100009136" data-ratio="1.0555555555555556" data-s="300,640" data-type="jpeg" data-w="1080" src="/assets/images/4277a1039f.jpg" style="width: 100%; max-width: 600px;"/>
+        </span>
+       </a>
+      </section>
+     </section>
+     <section style="line-height: 2;padding-right: 20px;padding-left: 20px;">
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 18px;">
+        <strong>
+         <span style="color: rgb(26, 120, 186);">
+          <br/>
+         </span>
+        </strong>
+       </span>
+      </p>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009139" data-ratio="1.4148148148148147" data-s="300,640" data-type="png" data-w="1080" src="/assets/images/d90006b174.png" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="text-align: center;margin-top: 10px;line-height: 0;margin-bottom: 16px;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009135" data-ratio="0.55" data-s="300,640" data-type="jpeg" data-w="1080" src="/assets/images/65b7609e24.jpg" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <section style="margin: 10px 0% -40px;">
+      <section style="font-size: 48px;color: rgb(238, 238, 238);text-align: center;line-height: 1;letter-spacing: 0px;">
+       <p>
+        <strong>
+         CLASS
+        </strong>
+       </p>
+      </section>
+     </section>
+     <section style="text-align: center;justify-content: center;display: flex;flex-flow: row nowrap;">
+      <section style="display: inline-block;width: auto;vertical-align: top;min-width: 10%;flex: 0 0 auto;height: auto;align-self: flex-start;line-height: 0;">
+       <section style="font-size: 24px;padding-right: 15px;padding-left: 15px;letter-spacing: 4px;color: rgb(246, 70, 33);">
+        <p>
+         <span style="font-size: 28px;">
+          <strong>
+           周日主题课
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="margin-right: 0%;margin-left: 0%;">
+        <section style="background-color: rgb(92, 92, 92);height: 1px;">
+         <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+         </svg>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;">
+      <section style="text-align: center;color: rgb(188, 188, 188);font-size: 12px;line-height: 2;">
+       <p>
+        Sunday Class
+       </p>
+      </section>
+     </section>
+     <section style="font-size: 14px;">
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         8 月4/11日
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        课程 Class 14:00-15:30
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        舞酱 Jam 15:40-17:00
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         上海马跃卡Maloca巴西战舞
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        上海市静安区镇宁路168号 永兴商务楼 1楼
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <section style="text-align: center;margin-bottom: 10px;">
+      <section style="display: inline-block;width: 20px;height: 50px;vertical-align: top;overflow: hidden;background-color: rgb(238, 238, 238);">
+       <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+       </svg>
+      </section>
+     </section>
+     <section style="text-align: center;margin-top: 10px;">
+      <section style="font-size: 14px;color: rgb(26, 120, 186);">
+       <p>
+        本月带领者
+       </p>
+      </section>
+     </section>
+     <section style="text-align: center;">
+      <section style="text-align: justify;font-size: 14px;">
+       <p style="text-align: center;white-space: normal;">
+        <strong>
+         王兵
+        </strong>
+       </p>
+      </section>
+     </section>
+     <section style="font-size: 12px;">
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <section style="text-align: center;line-height: 0;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 54%;height: auto;border-radius: 99%;overflow: hidden;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009142" data-ratio="1" data-s="300,640" data-type="jpeg" data-w="719" src="/assets/images/c1e49f4d0f.jpg" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <section style="padding-right: 20px;padding-left: 20px;line-height: 1.75;letter-spacing: 1.75px;">
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;">
+        合气道黑带，攀岩、跑酷爱好者，
+       </span>
+       <span style="font-size: 12px;">
+        瑜伽RYT200认证
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;">
+        曾受训于陶身体剧场、谢欣舞蹈剧场、凌云焰游击队等。
+       </span>
+       <span style="font-size: 12px;">
+        致力于将舞蹈、瑜伽、武术、极限运动等身体技术融会贯通
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="text-align: center;transform: translate3d(-1px, 0px, 0px);">
+      <section style="text-align: justify;line-height: 1.3;">
+       <p style="text-align: center;white-space: normal;">
+        <span style="font-size: 12px;color: rgb(246, 70, 33);">
+         THEME OF THE MONTH
+        </span>
+        <br/>
+       </p>
+       <p style="text-align: center;white-space: normal;">
+        <strong>
+         <span style="font-size: 18px;color: rgb(92, 92, 92);">
+          本月主题
+         </span>
+        </strong>
+       </p>
+      </section>
+     </section>
+     <section style="text-align: center;margin-top: -60px;margin-bottom: 10px;">
+      <section style="display: inline-block;width: 20px;height: 80px;vertical-align: top;overflow: hidden;background-color: rgb(238, 238, 238);">
+       <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+       </svg>
+      </section>
+     </section>
+     <section style="font-size: 14px;line-height: 1.75;padding-right: 30px;padding-left: 30px;letter-spacing: 1.75px;color: rgb(26, 120, 186);">
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color:#99d8de;">
+        <span style="font-size: 16px;color: rgb(26, 120, 186);">
+         <strong>
+          身体几何
+         </strong>
+        </span>
+       </span>
+      </p>
+      <p style="white-space: normal;padding-right: 20px;padding-left: 20px;color: rgb(92, 92, 92);font-size: 16px;text-align: center;">
+       <span style="font-size: 14px;">
+        The Structure of Body
+       </span>
+      </p>
+     </section>
+     <section style="padding-right: 20px;padding-left: 20px;color: rgb(92, 92, 92);">
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;color: rgb(246, 169, 146);white-space: normal;">
+       <span style="color: rgb(92, 92, 92);font-size: 14px;">
+        <strong>
+         8月4日 主题
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;color: rgb(246, 169, 146);white-space: normal;">
+       <span style="font-size: 14px;color: rgb(26, 120, 186);">
+        <strong>
+         骨骼与肌肉
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;color: rgb(246, 169, 146);white-space: normal;">
+       <span style="font-size: 14px;">
+        <strong>
+         <br/>
+        </strong>
+       </span>
+      </p>
+      <p>
+       <span style="font-size: 14px;">
+        在第一节课中，我们将探索身体的基础结构——骨骼、肌肉、关节和韧带。我们会进行一些基本的练习，了解这些部分如何结合在一起运作。通过这些练习，我们将探讨什么是好的支撑，什么是不好的支撑，以及在支撑时最脆弱的地方在哪里。我们还会讨论如何有效地分配体重，确保自己和伙伴都能安全地承受重量。
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 14px;">
+       </span>
+      </p>
+      <p style="color: rgb(246, 169, 146);white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;color: rgb(246, 169, 146);white-space: normal;">
+       <span style="color: rgb(92, 92, 92);font-size: 14px;">
+        <strong>
+         8月11日 主题
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;color: rgb(246, 169, 146);white-space: normal;">
+       <span style="font-size: 14px;color: rgb(26, 120, 186);">
+        <strong>
+         重量的沟通
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;color: rgb(246, 169, 146);white-space: normal;">
+       <span style="color: rgb(246, 146, 217);font-size: 14px;">
+        <strong>
+         <br/>
+        </strong>
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 14px;">
+        第二节课的重点是双人之间的支撑与结构。我们一起去感受来自大地的承载之力， 让自己的身体变成承受重量与大地之间的载体。通过身体的重量沟通，轻松的分配重量，以及搭建起一个更加稳定的结构。我们还会探索如何处理突然袭来的力量和失衡，如何在不断变化的结构中寻找缝隙，并保持结构的流动性。我们常说的「灵活」到底是什么意思？既不是紧张，也不是放松，哪怕被压住了，还是有人可以灵活地转换，但到底什么是灵活？
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 14px;">
+        <br/>
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 14px;">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;color: rgb(246, 169, 146);white-space: normal;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        <strong>
+         8月18日
+         <span style="color: rgb(26, 120, 186);">
+          长舞酱
+         </span>
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style='text-align: justify;background-color: rgb(26, 120, 186);color: rgba(0, 0, 0, 0.9);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;letter-spacing: 0.034em;'>
+       </span>
+       <br/>
+      </p>
+     </section>
+     <section style="padding-right: 20px;padding-left: 20px;">
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <section style="font-size: 14px;">
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <section style="text-align: center;margin-bottom: 10px;">
+      <section style="display: inline-block;width: 20px;height: 50px;vertical-align: top;overflow: hidden;background-color: rgb(238, 238, 238);">
+       <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+       </svg>
+      </section>
+     </section>
+     <section style="text-align: center;font-size: 14px;">
+      <p>
+       <span style="font-size: 12px;">
+        FEE
+       </span>
+      </p>
+      <p>
+       <span style="color: rgb(26, 120, 186);">
+        <strong>
+         课程费用
+        </strong>
+       </span>
+      </p>
+     </section>
+     <section style="font-size: 14px;line-height: 1.75;">
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         本月2次课程+长舞酱  连报优惠价 450元
+        </strong>
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        *当月使用，不可延期
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        单次 250元，双人同行 450元
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        *课程费用包含当日舞酱
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        如无特殊原因
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        需在购买当月使用完成
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         扫码进店报名 或咨询「SHCI小助手」
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         <br/>
+        </strong>
+       </span>
+      </p>
+     </section>
+     <section style="text-align: left;justify-content: flex-start;display: flex;flex-flow: row nowrap;">
+      <section style="display: inline-block;vertical-align: top;width: 50%;align-self: flex-start;flex: 0 0 auto;">
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+        <section>
+         <section style="display: inline-block;margin-left: 32px;margin-right: 32px;">
+          <img data-ratio="1" data-type="jpeg" data-w="430" src="/assets/images/01ecf18770.jpg" style="width: 100%; max-width: 600px;"/>
+         </section>
+        </section>
+        <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 60%;height: auto;">
+        </section>
+       </section>
+      </section>
+      <section style="display: inline-block;vertical-align: top;width: 50%;align-self: flex-start;flex: 0 0 auto;">
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+        <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 60%;height: auto;">
+         <br/>
+        </section>
+       </section>
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+        <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 60%;height: auto;">
+         <img class="rich_pages wxw-img" data-imgfileid="100009140" data-ratio="1.012158054711246" data-s="300,640" data-type="jpeg" data-w="658" src="/assets/images/9daceb24d3.jpg" style="width: 100%; max-width: 600px;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="font-size: 14px;line-height: 1.75;padding-right: 30px;padding-left: 30px;letter-spacing: 1.75px;">
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        <span style="font-size: 12px;">
+         <br/>
+        </span>
+       </strong>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(26, 120, 186);">
+        <strong>
+         <span style="font-size: 12px;">
+          注意事项
+         </span>
+        </strong>
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        1. 付款时在留言框内务必留下您的姓名,电话及微信号
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        2. 请学员务必保证上课时间,如缺席不接受退课、改期、补课申请
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        3. 老师保有依照学员实际状况，调整课程的权利
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        4. 课程及舞酱进行期间所拍摄的图文影像皆有可能作为之后寸草舞集宣传推广使用，请知悉，  若有介意者，请告诉我们
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="font-size: 12px;">
+        <br/>
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="line-height: 1.75;">
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <section style="text-align: center;margin-top: 10px;line-height: 0;margin-bottom: 16px;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009145" data-ratio="0.6666666666666666" data-s="300,640" data-type="jpeg" data-w="1080" src="/assets/images/52c436f776.jpg" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <section style="margin: 10px 0% -40px;">
+      <section style="font-size: 48px;color: rgb(238, 238, 238);text-align: center;line-height: 1;letter-spacing: 0px;">
+       <p>
+        <strong>
+         JAM
+        </strong>
+       </p>
+      </section>
+     </section>
+     <section style="text-align: center;justify-content: center;display: flex;flex-flow: row nowrap;">
+      <section style="display: inline-block;width: auto;vertical-align: top;min-width: 10%;flex: 0 0 auto;height: auto;align-self: flex-start;line-height: 0;">
+       <section style="font-size: 24px;padding-right: 15px;padding-left: 15px;letter-spacing: 4px;color: rgb(246, 70, 33);">
+        <p>
+         <span style="font-size: 28px;">
+          <strong>
+           舞酱
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="margin-right: 0%;margin-left: 0%;">
+        <section style="background-color: rgb(92, 92, 92);height: 1px;">
+         <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+         </svg>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;">
+      <section style="text-align: center;color: rgb(188, 188, 188);font-size: 12px;line-height: 2;">
+       <p>
+        Jam
+       </p>
+      </section>
+     </section>
+     <section style="font-size: 14px;color: rgb(26, 120, 186);line-height: 1.75;letter-spacing: 1.75px;padding-right: 20px;padding-left: 20px;">
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        周日舞酱
+       </strong>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        Sunday Jam
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        <span style="color: rgb(92, 92, 92);">
+         8月4/11日
+        </span>
+       </strong>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         15:30-17:00
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         8月18日 长舞酱
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         14:00-17:00
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         上海马跃卡Maloca巴西战舞
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        上海市静安区镇宁路168号永兴商务楼1楼
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        周二舞酱
+       </strong>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        Tuesday Jam
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="font-size: 12px;color: rgb(92, 92, 92);">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         8月6/13/20日
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         19:30-21:00
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         中瑛学院
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        上海市长宁区武夷路95弄28号201
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        舞酱费用
+       </strong>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        单次80元
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        十次舞酱卡600元 (6个月使用期)
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <br/>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        <strong>
+         扫码进店报名或咨询「SHCI小助手」
+        </strong>
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        <br/>
+       </strong>
+      </p>
+     </section>
+     <section style="text-align: left;justify-content: flex-start;display: flex;flex-flow: row nowrap;">
+      <section style="display: inline-block;vertical-align: top;width: 50%;align-self: flex-start;flex: 0 0 auto;">
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+        <section>
+         <section style="display: inline-block;margin-left: 32px;margin-right: 32px;">
+          <img data-ratio="1" data-type="jpeg" data-w="430" src="/assets/images/01ecf18770.jpg" style="width: 100%; max-width: 600px;"/>
+         </section>
+        </section>
+        <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 50%;height: auto;">
+        </section>
+       </section>
+      </section>
+      <section style="display: inline-block;vertical-align: top;width: 50%;align-self: flex-start;flex: 0 0 auto;">
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+        <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 46%;height: auto;">
+         <br/>
+        </section>
+       </section>
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+        <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 46%;height: auto;">
+         <br/>
+        </section>
+       </section>
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+        <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 46%;height: auto;">
+         <img class="rich_pages wxw-img" data-imgfileid="100009146" data-ratio="1.012158054711246" data-s="300,640" data-type="jpeg" data-w="658" src="/assets/images/9daceb24d3.jpg" style="width: 100%; max-width: 600px;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="font-size: 12px;line-height: 1.75;padding-right: 30px;padding-left: 30px;letter-spacing: 1.75px;">
+      <p style="text-align: center;white-space: normal;">
+       <strong>
+        <span style="color: rgb(142, 201, 101);">
+         <br/>
+        </span>
+       </strong>
+      </p>
+      <p style="text-align: center;white-space: normal;">
+       <span style="color: rgb(26, 120, 186);">
+        <strong>
+         温馨提醒
+        </strong>
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        1. 舞酱为自由跳舞的场域，无教学部分，有15分钟左右的热身带领；
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        2. 请穿适当舒适服饰，棉质有弹性衣物并能活动自如为佳，避免有扣子或拉链的衣物
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        3. 舞酱中可能会大量流汗，请斟酌自备毛巾或更換衣物；
+       </span>
+      </p>
+      <p style="white-space: normal;">
+       <span style="color: rgb(92, 92, 92);">
+        4. 请勿佩戴任何饰物、眼镜或其他尖锐物品；建议自备舞蹈护膝（前面有垫子的护膝）和饮用水杯。
+       </span>
+      </p>
+     </section>
+     <section>
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+      <p style="white-space: normal;">
+       <br/>
+      </p>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="text-align: center;margin-top: 10px;line-height: 0;margin-bottom: 16px;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009149" data-ratio="0.6666666666666666" data-s="300,640" data-type="jpeg" data-w="1080" src="/assets/images/19694b2d18.jpg" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <section style="margin: 10px 0% -40px;">
+      <section style="font-size: 48px;color: rgb(238, 238, 238);text-align: center;line-height: 1;letter-spacing: 0px;">
+       <p>
+        <strong>
+         ARTICALS
+        </strong>
+       </p>
+      </section>
+     </section>
+     <section style="text-align: center;justify-content: center;display: flex;flex-flow: row nowrap;">
+      <section style="display: inline-block;width: auto;vertical-align: top;min-width: 10%;flex: 0 0 auto;height: auto;align-self: flex-start;line-height: 0;">
+       <section style="font-size: 24px;padding-right: 15px;padding-left: 15px;letter-spacing: 4px;color: rgb(246, 70, 33);">
+        <p>
+         <span style="font-size: 28px;">
+          <strong>
+           好文分享
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="margin-right: 0%;margin-left: 0%;">
+        <section style="background-color: rgb(92, 92, 92);height: 1px;">
+         <svg style="float:left;line-height:0;width:0;vertical-align:top;" viewbox="0 0 1 1">
+         </svg>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;">
+      <section style="text-align: center;color: rgb(188, 188, 188);font-size: 12px;line-height: 2;">
+       <p>
+        Write and Share
+       </p>
+      </section>
+     </section>
+     <section style="text-align: unset;">
+      <p>
+       <br/>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        每一个分享都可能是激发成长的火花
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        每一个感悟
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        都是值得珍惜和被看见的
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        欢迎投稿
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        往期好文分享，点击阅读
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="color: rgb(92, 92, 92);font-size: 14px;">
+        <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=Mzg5ODgyODc2Ng==&amp;mid=2247490753&amp;idx=1&amp;sn=d62f4c0fd496f88298bb73ab21c49171&amp;chksm=c05dcc70f72a4566e9c3f5011afea50a293eb3b9eb86c8da70a17c564fb49fe80ff83a92c957&amp;scene=21#wechat_redirect" imgdata="null" imgurl="" linktype="text" tab="innerlink" target="_blank" textvalue="最深邃的，是表面的皮肤——一次关于接触即兴的写作">
+         最深邃的，是表面的皮肤——一次关于接触即兴的写作
+        </a>
+       </span>
+       <span style="color: rgb(92, 92, 92);">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(26, 120, 186);">
+        寸草向接触即兴的爱好者们长期征集
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(26, 120, 186);">
+        接触即兴体验相关的原创文章
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        <br/>
+       </span>
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size: 14px;color: rgb(92, 92, 92);">
+        加寸草小助手分享你的文章
+       </span>
+      </p>
+     </section>
+     <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 24%;height: auto;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009147" data-ratio="1.012158054711246" data-s="300,640" data-type="jpeg" data-w="658" src="/assets/images/9daceb24d3.jpg" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <p style="white-space: normal;">
+      <br/>
+     </p>
+     <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;line-height: 0;">
+      <section style="vertical-align: middle;display: inline-block;line-height: 0;">
+       <img class="rich_pages wxw-img" data-imgfileid="100009150" data-ratio="0.6324074074074074" data-s="300,640" data-type="jpeg" data-w="1080" src="/assets/images/7d415d0a59.jpg" style="width: 100%; max-width: 600px;"/>
+      </section>
+     </section>
+     <section style="text-align: unset;">
+      <p style="text-align: center;">
+       <br/>
+      </p>
+     </section>
+     <section style="text-align: center;font-size: 14px;">
+      <p style="text-align: right;">
+       <span style="font-size: 12px;">
+        // 编辑/排版：小宝
+       </span>
+      </p>
+      <p style="text-align: right;">
+       <span style="font-size: 12px;">
+        // 图片：寸草舞集活动记录照片
+       </span>
+      </p>
+      <p>
+       <br/>
+      </p>
+     </section>
+     <section style="text-align: center;font-size: 14px;">
+      <p>
+       <br/>
+      </p>
+     </section>
+     <section style="display: flex;width: 100%;flex-flow: column nowrap;">
+      <section style="z-index: auto;">
+       <section style="text-align: left;margin-top: 10px;line-height: 0;">
+        <section style="vertical-align: middle;display: inline-block;line-height: 0;width: 54%;height: auto;">
+         <img class="rich_pages wxw-img" data-imgfileid="100009148" data-ratio="0.9775784753363229" data-s="300,640" data-type="jpeg" data-w="669" src="/assets/images/4df5191689.jpg" style="width: 100%; max-width: 600px;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="text-align: right;justify-content: flex-end;display: flex;flex-flow: row nowrap;margin-top: -45px;margin-bottom: 10px;">
+      <section style="display: inline-block;width: 75%;vertical-align: top;align-self: flex-start;flex: 0 0 auto;height: auto;border-bottom: 1px solid rgba(155, 238, 166, 0.45);padding-right: 10px;padding-bottom: 10px;border-right: 1px solid rgba(155, 238, 166, 0.45);">
+       <section style="justify-content: flex-end;display: flex;flex-flow: row nowrap;">
+        <section style="display: inline-block;width: 100%;vertical-align: top;align-self: flex-start;flex: 0 0 auto;height: auto;padding: 60px 20px 20px;background-color: rgba(102, 206, 183, 0.25);">
+         <section style="text-align: justify;font-size: 14px;line-height: 1.75;">
+          <p style="white-space: normal;">
+           <span style="font-size: 12px;">
+            这是一个给 0-99 岁人群发现身体的美好的群聚之地。寸草舞集希望以舞蹈为媒介缩短人与人之间的距离，透过不同的身体创意开发与练习，发现身体的有趣之处。
+           </span>
+          </p>
+          <p style="white-space: normal;">
+           <span style="font-size: 12px;">
+            作为上海接触即兴社群活动的主要组织方和上海即兴艺术节的联合主办方，2017年开始寸草舞集每年邀请全球各地不同领域的艺术家们至艺术节跨界交流、演出，和大家分享美好的即兴经验。
+           </span>
+          </p>
+          <p style="white-space: normal;">
+           <span style="font-size: 12px;">
+            寸草舞集致力于后现代剧场的创作与演出，并于日常定期开设现代舞、即兴创作与肢体开发、接触即兴等课程。
+           </span>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <p style="display: none;">
+     <mp-style-type data-value="10000">
+     </mp-style-type>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
