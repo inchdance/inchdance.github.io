@@ -175,9 +175,9 @@ def main(data_block, translate_only=None):
 
 if __name__ == "__main__":
     data_json = {
-        "src_post": "https://mp.weixin.qq.com/s/QHSbVyPzrKmXIO8eM8nlSQ",
-        "date": "20170702",
-        "short_tag": "count_down",
-        "folder": "festivals/2017"
+        "src_post": "https://mp.weixin.qq.com/s/H5H4OG4XNenYMyrjocBIeg",
+        "date": "20240809",
+        "short_tag": "be_the_minority",
+        "folder": "articles"
     }
     main(data_json, translate_only=False)
