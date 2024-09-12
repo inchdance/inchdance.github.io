@@ -1,10 +1,14 @@
 import hashlib
 import os
 import re
+import time
 
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs
+
+from requests import RequestException
+
 from llm_html_translator import translate_html
 
 
@@ -69,6 +73,22 @@ def clean_html(html_content, article_id=None):
     return new_html
 
 
+def download_image_with_retry(img_url, max_retries=3, retry_delay=3):
+    """下载图片，如果失败则重试"""
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(img_url, timeout=10)
+            response.raise_for_status()  # 如果状态码不是200，将引发异常
+            return response.content
+        except RequestException as e:
+            if attempt < max_retries - 1:
+                print(f"下载图片失败 {img_url}: {str(e)}. 将在 {retry_delay} 秒后重试...")
+                time.sleep(retry_delay)
+            else:
+                print(f"下载图片失败 {img_url}: {str(e)}. 已达到最大重试次数。")
+                raise
+
+
 def process_and_replace_images(html):
     """获取 HTML 中的图片链接并下载到 docs/assets/images"""
     soup = BeautifulSoup(html, 'html.parser')
@@ -78,9 +98,8 @@ def process_and_replace_images(html):
             print(f"跳过非法图片链接：{img_url}")
             continue
         try:
-            # 下载图片内容
-            response = requests.get(img_url, timeout=10)
-            img_content = response.content
+            # 下载图片内容，包含重试逻辑
+            img_content = download_image_with_retry(img_url)
 
             # 计算 MD5 哈希值
             md5_hash = hashlib.md5(img_content).hexdigest()
@@ -95,7 +114,7 @@ def process_and_replace_images(html):
                 file_extension = f".{wx_fmt}"
             else:
                 # 如果没有 wx_fmt 参数，尝试从 Content-Type 获取
-                content_type = response.headers.get('Content-Type', '')
+                content_type = requests.head(img_url, timeout=10).headers.get('Content-Type', '')
                 if 'png' in content_type:
                     file_extension = '.png'
                 elif 'gif' in content_type:
@@ -119,9 +138,9 @@ def process_and_replace_images(html):
             img['src'] = replace_path
             if img.has_attr('data-src'):
                 img['data-src'] = replace_path
-                print(f"已下载并保存图片：{img_url} -> {replace_path}")
+            print(f"已下载并保存图片：{img_url} -> {replace_path}")
         except Exception as e:
-            print(f"下载图片时出错 {img_url}: {str(e)}")
+            print(f"处理图片时出错 {img_url}: {str(e)}")
     return str(soup)
 
 
@@ -170,14 +189,14 @@ def main(data_block, translate_only=None):
 
     # 5. 自动翻译
     # auto_translate(target_md, target_en_md)
-    print("自动翻译完成")
+    # print("自动翻译完成")
 
 
 if __name__ == "__main__":
     data_json = {
-        "src_post": "https://mp.weixin.qq.com/s/xdVsOUoN6bteciSr91qHhg",
-        "date": "20240829",
-        "short_tag": "september_events",
-        "folder": "archive/2024"
+        "src_post": "https://mp.weixin.qq.com/s/hdAJCL5eYmoNHJyX5m0D5Q",
+        "date": "20240910",
+        "short_tag": "why_we_do_beyond_dance",
+        "folder": "festivals"
     }
     main(data_json, translate_only=False)
