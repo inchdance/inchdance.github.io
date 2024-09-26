@@ -170,6 +170,7 @@ nav:
   - 水＊人＊环境的对话＠乌镇: zh/performance/20171020.wuzheng_water_people_environment.md
 - 活动存档:
   - '2024':
+    - 2024 十月寸草接触即兴活动时间表 Oct Activities: zh/archive/2024/20240926.oct_activities.md
     - 2024 九月寸草接触即兴活动时间表 Sep Activities: zh/archive/2024/20240829.september_activities.md
     - 2024 八月寸草接触即兴活动时间表 Aug Activities: zh/archive/2024/20240726.aug_activities.md
     - 2024 七月寸草接触即兴活动时间表 JUL Activities: zh/archive/2024/20240626.jul_activities.md
@@ -392,7 +393,6 @@ plugins:
     - locale: en
       name: English
       nav_translations:
-        演出: Performance
         '"创意肢体律动"课程：鼓励孩子勇敢地表达，做出属于自己的身体动作。': '"创意肢体律动"课程：鼓励孩子勇敢地表达，做出属于自己的身体动作。'
         02/25 凌云焰•李凝「肢体剧场的基础训练及思维方式」一日工作坊: 02/25 凌云焰•李凝「肢体剧场的基础训练及思维方式」一日工作坊
         10月30日户外舞酱回顾: 10月30日户外舞酱回顾
@@ -425,6 +425,7 @@ plugins:
         2024 五月寸草接触即兴活动时间表 May Activities: 2024 五月寸草接触即兴活动时间表 May Activities
         2024 八月寸草接触即兴活动时间表 Aug Activities: 2024 八月寸草接触即兴活动时间表 Aug Activities
         2024 六月寸草接触即兴活动时间表 JUN Activities: 2024 六月寸草接触即兴活动时间表 JUN Activities
+        2024 十月寸草接触即兴活动时间表 Oct Activities: 2024 十月寸草接触即兴活动时间表 Oct Activities
         2024 四月寸草接触即兴活动时间表 April Activities: 2024 四月寸草接触即兴活动时间表 April Activities
         2024许程崴接触即兴舞蹈工作坊 双城记：深圳（3.09-10）+上海（3.15-17）: 2024许程崴接触即兴舞蹈工作坊 双城记：深圳（3.09-10）+上海（3.15-17）
         3.10周日空降飞行带领：Nikolaï「自舞之舞」: 3.10周日空降飞行带领：Nikolaï「自舞之舞」
@@ -738,6 +739,7 @@ plugins:
         活动分享| 2023TOWARDS接触即兴51周年泰国大集会之古名伸工作坊: 活动分享| 2023TOWARDS接触即兴51周年泰国大集会之古名伸工作坊
         活动存档: Archives
         活动～本周四公益舞酱: 活动～本周四公益舞酱
+        演出: Performance
         演出大爆炸：创作、身体、脑洞和东方密码: 演出大爆炸：创作、身体、脑洞和东方密码
         灵魂操控师 | 当代偶戏暨物品表演工作坊: 灵魂操控师 | 当代偶戏暨物品表演工作坊
         炎夏舞动，加开一班｜上海・七月基础现代舞常规课: 炎夏舞动，加开一班｜上海・七月基础现代舞常规课

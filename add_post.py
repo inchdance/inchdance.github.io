@@ -194,9 +194,9 @@ def main(data_block, translate_only=None):
 
 if __name__ == "__main__":
     data_json = {
-        "src_post": "https://mp.weixin.qq.com/s/hdAJCL5eYmoNHJyX5m0D5Q",
-        "date": "20240910",
-        "short_tag": "why_we_do_beyond_dance",
-        "folder": "festivals"
+        "src_post": "https://mp.weixin.qq.com/s/_1SB4EfmfFASiCXHTteWYw",
+        "date": "20240926",
+        "short_tag": "oct_activities",
+        "folder": "archive/2024"
     }
     main(data_json, translate_only=False)
